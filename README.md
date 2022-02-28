@@ -1,8 +1,10 @@
 ---
-description: How Artistic! So Artifishul.
+description: Such Artifishul. How Artistic!
 ---
 
 # 🐕 Very utility. Wow!
+
+
 
 {% hint style="success" %}
 Not Your Granddad's NFT
@@ -12,19 +14,15 @@ Not Your Granddad's NFT
 
 Shibe Face Skrill will involve a series of small drops on various chains, exploring financial use-cases, blockchain communities and tech-stacks.
 
-Each release of NFT will showcase Shiba themed financial utilities, delivering value to our community with features highlighting the use of ShibaInu and Doge coins.
-
 After exploring a different chains, the team together with the community will choose one to be a hub and create a cross-chain yield farm and NFT game-fi ecosystem.
 
-### Real Utility&#x20;
-
 {% hint style="success" %}
-Each line of **Shibe Face NFT** we release will feature a unique financial use-case.
+Each line of **ShibeFace NFT** we release will feature a unique financial use-case.
 {% endhint %}
 
-**Influencers vs Community:** NFT launches **** commonly involve massive marketing budgets including big payouts and giveaways to influencers who are meant to use their reach to create hype around the NFT line.\
-\
-We're shifting those funds towards creating a variety of financial utilities.
+NFT launches **** commonly involve massive marketing budgets including big payouts and giveaways to influencers who are meant to use their reach to create hype around the NFT line.&#x20;
+
+In theory, those influencers are needed to get the project seen by a lot of eyes. We're betting on the community, and shifting that portion of the budget to its development.
 
 ### Roadmap: Jump right in
 
@@ -76,8 +74,20 @@ W_e need a name for the new replicator, a noun that conveys the idea of a unit o
 
 ### Info
 
-#### Art
+{% content-ref url="info/art.md" %}
+[art.md](info/art.md)
+{% endcontent-ref %}
 
-#### Team
+{% content-ref url="info/team.md" %}
+[team.md](info/team.md)
+{% endcontent-ref %}
 
-#### Links
+{% content-ref url="info/links.md" %}
+[links.md](info/links.md)
+{% endcontent-ref %}
+
+{% content-ref url="info/faq.md" %}
+[faq.md](info/faq.md)
+{% endcontent-ref %}
+
+####
