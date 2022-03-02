@@ -12,7 +12,7 @@ Dogecoin launched originally "as a joke" came as a lighthearted alternative to t
 
 Dogecoin brought the same technological features as bitcoin, but with the face of the most meme-worthy dog among the worlds most iconic dog breed, the [**Shiba Inu**](https://en.wikipedia.org/wiki/Shiba\_Inu).
 
-![In 2013 Doge was named meme of the year, around the same time that dogecoin was released.](<../.gitbook/assets/image (12).png>)
+![In 2013 Doge was named meme of the year, around the same time that dogecoin was released.](<../.gitbook/assets/image (12) (1).png>)
 
 ### Dogecoiners have the most fun!
 
