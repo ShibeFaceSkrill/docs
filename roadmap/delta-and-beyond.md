@@ -14,6 +14,6 @@ Join us and help to shape the future of NFT launches.
 
 ### First year plans
 
-* Launch a Shibe Dao whos purpose is to continue launching NFT and discovering DeFi use-cases, as part of this brand and community.
 * Create a public\open-source dataset of Shiba Inu faces, so anyone can train neural networks to create artificial images based upon them
 * Begin creating a solid playbook for NFT launches including a variety of financial use-cases and launch strategies.&#x20;
+* Launch a Shibe Dao whos purpose is to continue launching NFT and discovering DeFi use-cases, as part of this brand and community.

@@ -6,7 +6,7 @@ description: The original memecoin.
 
 These iconic pictures were [originally published](https://kabosu112.exblog.jp/9944144/) on February 13th, 2010. It wouldn't take long before they became the face to a multitude of wholesome memes detailing situations and reasons why doge is so excited.
 
-![Kabosu, a female Shiba Inu, adopted by kindergarden techer Atsuko Satō in 2008](<../.gitbook/assets/image (10).png>)
+![Kabosu, a female Shiba Inu, adopted by kindergarden techer Atsuko Satō in 2008](<../.gitbook/assets/image (10) (1).png>)
 
 Dogecoin launched originally "as a joke" came as a lighthearted alternative to the all too serious Bitcoin culture. Bitcoiners were focused on the technical, economic, and political imperatives driving creation of a decentralized digital currency.&#x20;
 
@@ -16,7 +16,7 @@ Dogecoin brought the same technological features as bitcoin, but with the face o
 
 ### Dogecoiners have the most fun!
 
-No offense to any other cryptocurrency communities, but it's hard to argue with this point: Dogecoin is all about culture and community!
+No offense to any other cryptocurrency communities, but it's hard to argue with this point. Dogecoin is a _cultural_ phenomenon!
 
 ![Shibe is a good and wholesome doggo!](<../.gitbook/assets/image (3).png>)
 

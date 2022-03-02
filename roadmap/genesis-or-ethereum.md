@@ -22,7 +22,7 @@ Many of you will become valued members of our team, and help to shape the future
 
 ### ETH Genesis Takeaways:
 
-* **Owners of NFT purchased during ETH sale receive corresponding NFT on future launches.** &#x20;
+* **Owners of NFT purchased during ETH sale receive corresponding NFT on future cross-chain launches.** &#x20;
 * **Qualifying pre-sale purchases get (up to  50%) rebate, once all NFT have been sold.**
 * **Team-building & community prepares for official launch.**&#x20;
 * **Will Incorporate Shib and Doge Payments**

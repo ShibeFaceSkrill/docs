@@ -20,4 +20,4 @@
 * [🎨 Art](info/art.md)
 * [👥 Team](info/team.md)
 * [🔗 Links](info/links.md)
-* [FAQ](info/faq.md)
+* [⁉ FAQ](info/faq.md)
