@@ -12,9 +12,10 @@ We are bringing NFT launches into the future. Have we seen enough 10k PFP collec
 \
 Join us and help to shape the future of NFT launches.
 
-### First year plans
+### Moving Forward
 
 * Create a public\open-source dataset of Shiba Inu faces, so anyone can train neural networks to create artificial images based upon them
 * Create a DeFiNFT launch strategy playbook.&#x20;
-* Bring our community into a more complete participation with cryptocurrency&#x20;
-* Launch a Shibe Dao whos purpose is to continue launching NFT and discovering DeFi use-cases, as part of this brand and community, managing all funds from future ShibeFace NFT sales.
+* Onboard community members, gradually, from consumers \ end-users, to NFT artists, community managers, social media managers, and meme-masters; learning all the skills needed to launch your own NFT projects.
+* Launch a ShibeFace Dao whos purpose is to continue launching NFT and discovering DeFi use-cases, as part of this brand and community, managing all funds from future ShibeFace NFT sales.
+* ShibeFace DAO NFT Launches will fund the continued operation of the cross-chain rewards hub.
