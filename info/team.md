@@ -6,7 +6,7 @@ description: A likely pack of shibes! 🐾 That's right! ✅ We've got the stuff
 
 ### ShibeFace - Founder and Bootstrap Technician
 
-![I like running circles in the snow really fast!](<../.gitbook/assets/image (10).png>)
+![I like running really fast in the snow!](<../.gitbook/assets/image (10).png>)
 
 I'm a BBS-era cyberpunk. Found crypto in 2016, got caught in the mania of 2017. From there, I learned everything I could about bitcoin and and cryptocurrency.
 
@@ -24,19 +24,19 @@ I don't know everything, but love to learn. I get my hands dirty at every stage 
 * Use web3 tool-chains for developing smart-contracts and their websites. (VSCode and my terminal)
 * Deploy smart contracts to test net and mint NFT. 🚀🚀🚀
 
-I've got the drive and the determination. I never give up, and know there's always plenty of twists & turns before I get to the finish-line.
+I've got the drive and the determination. _**I never give up**_, and know there's always plenty of twists & turns before I get to the finish-line.
 
-### OkuraTatsuhiro - Smart Contracts + Full-Stack Expert
+### Okura Tatsuhiro - Smart Contracts + Full-Stack Expert
 
 ![Did somebody mention a walk???](<../.gitbook/assets/image (14).png>)
 
-Passionate full-stack developer with 9+ years of experience, leadership skills and unrivalled building skills. Skilled in JS Frameworks (React, Vue), Web Dev Stacks (MEAN, LAMP), Version Control (Git), Databases (Oracle, MySQL), CMS, Blockchain, Smart Contract, Cryptography.&#x20;
+Passionate full-stack developer with 9+ years of experience, leadership skills and unrivaled building skills. Skilled in JS Frameworks (React, Vue), Web Dev Stacks (MEAN, LAMP), Version Control (Git), Databases (Oracle, MySQL), CMS, Blockchain, Smart Contract, Cryptography.&#x20;
 
 I helped the bottom line at Isetan Mitsukoshi Dev, delight clients at Kajima Dev, and deliver high-quality web development for Opentext Dev. At Logica, led development for $30M in revenue per year. Managed 5 teams of 5-7 developers each. Worked with customers during the period of 15% increase in repeat business.
 
 As a freelance developer, completed 5+ end-to-end client projects, including the webapp for the sports betting website and blockchain projects. Contributed to 40+ GitHub projects and completed 10+ personal full-stack and blockchain development projects with 95% client satisfaction.&#x20;
 
-Main goal is to work with agile business owners and ambitious entrepreneurs with big ideas.
+_**Main goal is to work with agile business owners and ambitious entrepreneurs with big ideas.**_
 
 ### 0xJPEG - Market Research & JPEG Analyst
 
