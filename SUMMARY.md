@@ -2,18 +2,18 @@
 
 * [🐕 Very utility. Wow!](README.md)
 
+## ShibeFace Roadmap <a href="#roadmap" id="roadmap"></a>
+
+* [🥰 Ethereum: Bootstrap](roadmap/ethereum-bootstrap.md)
+* [😎 Matic|Solana: Official](roadmap/matic-or-solana-official.md)
+* [🤓 Iota|Cardano: Cruizin'](roadmap/iota-or-cardano-cruizin.md)
+* [🤠 ShibeFaceDAO and Beyond!](roadmap/shibefacedao-and-beyond.md)
+
 ## memetics
 
 * [🪙 First came DOGE](memetics/first-came-doge.md)
 * [💰 Then came SHIB](memetics/then-came-shib.md)
 * [🤑 and then, and then, and then!](memetics/and-then-and-then-and-then.md)
-
-## Roadmap
-
-* [🥰 Genesis | Ethereum](roadmap/genesis-or-ethereum.md)
-* [😎 Alpha | Polygon vs Solana](roadmap/alpha-or-polygon-vs-solana.md)
-* [🤓 Gamma | Iota vs Cardano](roadmap/gamma-or-iota-vs-cardano.md)
-* [🤠 Delta and Beyond!](roadmap/delta-and-beyond.md)
 
 ## Info
 

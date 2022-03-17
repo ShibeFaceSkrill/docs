@@ -28,7 +28,7 @@ I've got the drive and the determination. _**I never give up**_, and know there'
 
 ### Okura Tatsuhiro - Smart Contracts + Full-Stack Expert
 
-![Did somebody mention a walk???](<../.gitbook/assets/image (14).png>)
+![Did somebody mention a walk???](<../.gitbook/assets/image (14) (1).png>)
 
 Passionate full-stack developer with 9+ years of experience, leadership skills and unrivaled building skills. Skilled in JS Frameworks (React, Vue), Web Dev Stacks (MEAN, LAMP), Version Control (Git), Databases (Oracle, MySQL), CMS, Blockchain, Smart Contract, Cryptography.&#x20;
 
@@ -48,4 +48,6 @@ A keen observer of the market from DeFi to NFT. I have survived numerous rug-pul
 
 Spent way too much time (even during my fiat-mining duties) browsing Twitter and numerous discord channels seeking alpha, with the sole goal of becoming a meaningful contributor and builder in the Cryptoverse.
 
-I wholeheartedly believe that the launch-team and community that sticks together and builds will outlast vaporware hype. **Let's build!**
+I wholeheartedly believe that a launch-team and community who sticks together and builds will outlast the vaporware and hype.&#x20;
+
+#### **Let's build!**

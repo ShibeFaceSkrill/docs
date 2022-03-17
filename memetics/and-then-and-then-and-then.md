@@ -6,7 +6,7 @@ description: the most relatable of cryptocurrencies!
 
 We may never know exactly what it is about this adorable face, but it will forever be known as a symbol of good-fortune and prosperity.&#x20;
 
-![This face inspired the launch of endless shitcoins! ](<../.gitbook/assets/image (4).png>)
+![This face inspired the launch of endless shitcoins! ](<../.gitbook/assets/image (4) (1).png>)
 
 Many other Shiba Inu related coins arise every day. Most of these immediately dump, but a few have sticking power.&#x20;
 

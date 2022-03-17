@@ -1,51 +1,55 @@
 ---
-description: Such Artifishul. How Artistic!
+description: Much Artifishul How Artistic!
 ---
 
 # 🐕 Very utility. Wow!
 
-
-
 {% hint style="success" %}
-Not Your Granddad's NFT
+Not Your Granddad's NFT Collection
 {% endhint %}
 
 ### **A Dog-Lover's Best Friend**
 
-Shibe Face Skrill will involve a series of small drops on various chains, exploring financial use-cases, blockchain communities and tech-stacks.
+ShibeFaceSkrill will involve a series of micro-drops on different blockchains, exploring financial use-cases, communities and tech-stacks.
 
-After exploring a different chains, the team together with the community will choose one to be a hub and create a cross-chain yield farm and NFT game-fi ecosystem.
+That exploration will culminate in the creation of a cross-chain NFT rewards hub and game-fi ecosystem.
+
+![](<.gitbook/assets/image (3).png>)
 
 {% hint style="success" %}
-Each line of **ShibeFace NFT** we release will feature a unique financial use-case.
+Each launch will feature a unique financial use-case.
 {% endhint %}
 
-NFT launches **** commonly involve massive marketing budgets including big payouts and giveaways to influencers who are meant to use their reach to create hype around the NFT line.&#x20;
+### How will we pay for that?
 
-In theory, those influencers are needed to get the project seen by a lot of eyes. We're betting on the community, and shifting that portion of the budget to its development.
+NFT launches **** commonly involve massive marketing budgets including big payouts and giveaways to influencers.
+
+In theory, influencers are needed to get seen by a lot of eyes, and build the necessary hype. In practice, these influencers are rarely friends to the community.
+
+We think shifting that portion of the budget towards providing real financial utility to our holders could be a revolutionary shift for NFT.
 
 ### Roadmap: Jump right in
 
-Our first launch is coming soon on Ethereum.&#x20;
+Our initial NFT Drop is coming soon to Ethereum.&#x20;
 
 We have many of our own plans and creative ideas for Shibe Faced NFT, but we're also looking forward to your input!&#x20;
 
-The participants of our Genesis launch will help to decide which chains and which utilities to bring for future launches.
+#### The participants of our Genesis launch will help to decide on which chains to launch next and which utilities to prioritize.
 
-{% content-ref url="roadmap/genesis-or-ethereum.md" %}
-[genesis-or-ethereum.md](roadmap/genesis-or-ethereum.md)
+{% content-ref url="roadmap/ethereum-bootstrap.md" %}
+[ethereum-bootstrap.md](roadmap/ethereum-bootstrap.md)
 {% endcontent-ref %}
 
-{% content-ref url="roadmap/alpha-or-polygon-vs-solana.md" %}
-[alpha-or-polygon-vs-solana.md](roadmap/alpha-or-polygon-vs-solana.md)
+{% content-ref url="roadmap/matic-or-solana-official.md" %}
+[matic-or-solana-official.md](roadmap/matic-or-solana-official.md)
 {% endcontent-ref %}
 
-{% content-ref url="roadmap/gamma-or-iota-vs-cardano.md" %}
-[gamma-or-iota-vs-cardano.md](roadmap/gamma-or-iota-vs-cardano.md)
+{% content-ref url="roadmap/iota-or-cardano-cruizin.md" %}
+[iota-or-cardano-cruizin.md](roadmap/iota-or-cardano-cruizin.md)
 {% endcontent-ref %}
 
-{% content-ref url="roadmap/delta-and-beyond.md" %}
-[delta-and-beyond.md](roadmap/delta-and-beyond.md)
+{% content-ref url="roadmap/shibefacedao-and-beyond.md" %}
+[shibefacedao-and-beyond.md](roadmap/shibefacedao-and-beyond.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}

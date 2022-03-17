@@ -14,7 +14,7 @@ SHIB saw 49,000,000% gains in 2021. It's the #1 token among Ethereum whales, and
 
 Shib is only growing stronger during the recent consolidation, and we can say confidently it's here to stay as a leading shibe token.
 
-![SHIB Meme Master](<../.gitbook/assets/image (6).png>)
+![SHIB Meme Master](<../.gitbook/assets/image (6) (1).png>)
 
 The [**v2 Woofpaper**](https://github.com/shytoshikusama/woofwoofpaper/raw/main/SHIBA\_INU\_WOOF\_WOOF.pdf) **** no longer contains any reference to 'killing' dogecoin. Now, the narrative is driven around massive token burns, massive accumulation by ETH whales, and an ecosystem of utility being created around the tokens SHIB, LEASH and BONE.
 
