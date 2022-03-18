@@ -10,15 +10,15 @@ These iconic pictures were [originally published](https://kabosu112.exblog.jp/99
 
 Dogecoin, launched originally "as a joke," came as a lighthearted alternative to the all too serious Bitcoin culture.&#x20;
 
-Bitcoiners were focused on the technical, economic, and _political_ imperatives driving creation of a decentralized digital currency.&#x20;
+Bitcoiners focus on the technical, economic, and _political_ imperatives driving creation of a decentralized digital currency.&#x20;
 
-Dogecoin brought the same technological features as bitcoin, but with a friendly community who rally around images of the most meme-worthy dog, of the most iconic breed, [**Shiba Inu**](https://en.wikipedia.org/wiki/Shiba\_Inu).
+Dogecoin offers the same technological features as bitcoin, but with a friendly community who rally around images of the most meme-worthy dog, of the most iconic breed, [**Shiba Inu**](https://en.wikipedia.org/wiki/Shiba\_Inu).
 
 ![In 2013 Doge was named meme of the year, around the same time that dogecoin was released.](<../.gitbook/assets/image (12) (1).png>)
 
 ### Dogecoiners have the most fun!
 
-Not meaning any offence, if anything consider it a challenge, but it's hard to argue.&#x20;
+Not meaning offence. If it helps, consider it a challenge, but it's hard to argue.&#x20;
 
 #### Dogecoin knows how to have FUN!
 

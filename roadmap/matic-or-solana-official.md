@@ -12,7 +12,6 @@ description: 999 NFT on Solana
 
 ### **NFT as Time-Release Contract Wallets**
 
-**One challenge many cryptocurrency traders face is holding onto tokens long enough for their value to truly appreciate.** \
-****
+**One challenge many cryptocurrency traders face is holding onto tokens long enough for their value to truly appreciate.**&#x20;
 
 **The NFT in our "official" launch will be time-released smart contract wallets, that save a portion of their purchase price, denominated in DOGE or SHIB, released to its holder in 5 years.. (exact time to lock decided by ETH sale participants).**

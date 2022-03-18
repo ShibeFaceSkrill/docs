@@ -18,7 +18,7 @@ Some of you will become valued members of our team, help to shape the future of 
 
 The purpose to this initial Ethereum launch is jump-start our community. We have a big vision for the future, but we can't do it on our own. Lets start by proving ourselves on the small things, and take this journey one step at a time.
 
-![](<../.gitbook/assets/image (4).png>)
+![dog boots](<../.gitbook/assets/image (4).png>)
 
 ### Pay with SHIB:  40% burned.
 
@@ -32,11 +32,19 @@ We don't pay influencers to shill our products, but use that part of our budget 
 
 ### **Further Details TBD**
 
-Besides the SHIB burn there is no major utility planned for this launch. We will figure out the best ways to reward our early community members, and there is still room for innovation.&#x20;
+The SHIB burn is our main utility planned for the Bootstrap sale. If for some reason more people pay with ETH than SHIB, maybe you prefer to part with ETH and keep SHIB, or some people who aren't already SHIB holders will pay with ETH. \
+\
+If our sale completes and less than half is paid with SHIB then we can use some of those funds for community development.
 
-The bootstrap phase is meant to prepare us for our "[Official Launch](matic-or-solana-official.md)", starting immediately after the ETH sale is complete. We will decide as a community further details of upcoming launches while preparing for Bootstrap.
+The bootstrap phase is meant to prepare us for our "[Official Launch](matic-or-solana-official.md)" that will occur in the month after our ETH sale is complete.&#x20;
 
-### **Hop In!**
+We have ideas and moxy enough to get through the next year. We want to create something that will last beyond our direct involvement, so the community can share in the profits and the opportunity to learn various aspects of NFT project management.&#x20;
+
+**We hope to welcome many shibes into this NFT ecosystem and the greater crypto culture!**
+
+As a community, together, we define the financial decisions and the future path of the DAO beginning with managing proceeds from future cross-chain NFT launches.
+
+### **Climb aboard!**
 
 ![On our road-trip to the GitBook factory.](<../.gitbook/assets/image (12).png>)
 
@@ -44,8 +52,9 @@ _**Join us**_ for the ETH launch and become part of our inner circle for NFT Dro
 
 ### ETH Genesis Takeaways:
 
+* **Community development**
+* **Team building**&#x20;
 * **Incorporate Shib and Doge Payments**
-* **Shib Burn**
-* **Receive corresponding NFT on future cross-chain launches**
-* **Team-building**&#x20;
-* **Help plan upcoming launches**
+* **Buy with shib 40% burned**
+* **Eligible holders win "Companion" NFT on future cross-chain launches**
+* **Decide where next Polygon or Solana**

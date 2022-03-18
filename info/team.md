@@ -6,23 +6,29 @@ description: A likely pack of shibes! 🐾 That's right! ✅ We've got the stuff
 
 ### ShibeFace - Founder and Bootstrap Technician
 
-![I like running really fast in the snow!](<../.gitbook/assets/image (10).png>)
+![I like running fast in the snow!](<../.gitbook/assets/image (10).png>)
 
-I'm a BBS-era cyberpunk. Found crypto in 2016, got caught in the mania of 2017. From there, I learned everything I could about bitcoin and and cryptocurrency.
+BBS-era cyberpunk that found crypto in 2016, and got caught in the mania of 2017. Then I learned everything I could about bitcoin and and cryptocurrency.
 
 During the down-turn, I learned some coding and web skills. When the bulls came back and DeFi was popping off, I hopped along for that wild ride, back in the game full-time.&#x20;
 
-After DeFi slowed down, I had the opportunity to help launch (and sell out) a 10k PFP NFT. With that experience, I realized I had almost all the pieces necessary to launch my own project.&#x20;
+After DeFi slowed down, I had the opportunity to help launch (and sell out) a 10k PFP NFT.&#x20;
 
-I've since had the opportunity to help launch many other NFT, but have my own ideas. I love the opportunity of permissionless innovation, on Ethereum and beyond, and am blessed to be here now.
+I realized I had almost all the pieces necessary to launch my own project.&#x20;
+
+I've since been offered to help launch many other NFT, but think NFT needs some more creativity, and have my own ideas.&#x20;
+
+I love the opportunity in permissionless innovation, Ethereum and beyond!
 
 I don't know everything, but love to learn. I get my hands dirty at every stage of the journey, and have personally obsessed over every detail in creating artificial Shibes and launching these NFT, including:
 
 * Dataset gathering, cleaning, prep. (collect shibe pictures 🥰)
 * Training stylegan networks. (share shibe collection with AI)
 * Learn to read Solidity and React (Web3 <3 React).
-* Use web3 tool-chains for developing smart-contracts and their websites. (VSCode and my terminal)
+* How to use web3 tool-chains for developing smart-contracts and their websites.
 * Deploy smart contracts to test net and mint NFT. 🚀🚀🚀
+
+I can't actually **do** all of the things, but at least know how they should work.
 
 I've got the drive and the determination. _**I never give up**_, and know there's always plenty of twists & turns before I get to the finish-line.
 
@@ -40,7 +46,7 @@ _**Main goal is to work with agile business owners and ambitious entrepreneurs w
 
 ### 0xJPEG - Market Research & JPEG Analyst
 
-![I sniffed something!](<../.gitbook/assets/image (11).png>)
+![I sniffed something!](<../.gitbook/assets/image (11) (1).png>)
 
 I started my crypto journey in 2020 by watching some of the worst shills on YouTube and eventually made my way into DeFi in early 2021.
 
