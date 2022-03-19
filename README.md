@@ -50,8 +50,8 @@ We have many of our own plans and creative ideas for Shibe Faced NFT, but we're 
 
 #### Boldly into the future. Everything is possible. We've got goals and the means to achieve them!
 
-{% content-ref url="roadmap/iota-or-cardano-cruizin.md" %}
-[iota-or-cardano-cruizin.md](roadmap/iota-or-cardano-cruizin.md)
+{% content-ref url="roadmap/iota-or-cardano-explore.md" %}
+[iota-or-cardano-explore.md](roadmap/iota-or-cardano-explore.md)
 {% endcontent-ref %}
 
 #### Buy an NFT, join the crew, bring vision, build, grow, love!

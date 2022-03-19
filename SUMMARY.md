@@ -6,7 +6,7 @@
 
 * [🥰 Ethereum: Bootstrap](roadmap/ethereum-bootstrap.md)
 * [😎 Matic|Solana: Official](roadmap/matic-or-solana-official.md)
-* [🤓 Iota|Cardano: Cruizin'](roadmap/iota-or-cardano-cruizin.md)
+* [🤓 Iota|Cardano: Explore](roadmap/iota-or-cardano-explore.md)
 * [🤠 ShibeFaceDAO and Beyond!](roadmap/shibefacedao-and-beyond.md)
 
 ## memetics
