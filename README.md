@@ -12,23 +12,23 @@ Not Your Granddad's NFT Collection
 
 ShibeFaceSkrill will involve a series of micro-drops on different blockchains, exploring financial use-cases, communities and tech-stacks.
 
-That exploration will culminate in the creation of a cross-chain cultural center and game-fi ecosystem.
+That exploration will culminate in the creation of a cross-chain DeFi hub and gamified NFT ecosystem.
 
 ![](<.gitbook/assets/image (3).png>)
 
 {% hint style="success" %}
-Each launch will feature a unique financial use-case.
+Each launch will feature a unique financially active use-case.
 {% endhint %}
 
 ### What's different about ShibeFace?
 
-Besides everything?
+Besides everything? :joy:
 
 NFT launches **** commonly involve massive marketing budgets including big payouts and giveaways to influencers.
 
 In theory, influencers are needed to get seen by a lot of eyes, and build the necessary hype. In practice, these influencers are rarely friends to the community.
 
-We think shifting a significant portion of the budget from paying influencers to providing real value for our community will be a revolutionary shift for NFT launches.
+We think shifting a significant portion of the budget from paying influencers to providing real value for our community could make a revolutionary shift for NFT launches.
 
 ### Roadmap: Jump right in
 
