@@ -1,8 +1,8 @@
 ---
-description: So Artafishul 🦾 Much Shibe!
+description: So Artafishul ☤ Much Shibe!
 ---
 
-# 😵 Very utility ⚆⚆ Wow!
+# ⚒ Very utility ⚆⚆ Wow!
 
 {% hint style="danger" %}
 Not Your Granddad's NFT Collection&#x20;
@@ -31,9 +31,9 @@ Each launch will feature a unique financial use-case.
 
 **NFT launches commonly involve big payouts to influencers.**&#x20;
 
-_In theory_, influencers are needed to get seen by a lot of eyes, and attract the necessary attention.
+_In theory_, influencers are needed to get seen by a lot of eyes, and attract necessary attention.
 
-_In practice_, these NFT influencers are rarely friends to the community or the project's success.
+_In practice_, NFT influencers are rarely friends to the community or a project's success.
 
 > _**Our focus in on community, NOT HYPE.**_**  -ShibeFace**
 

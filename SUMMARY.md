@@ -1,6 +1,6 @@
 # Table of contents
 
-* [😵 Very utility ⚆⚆ Wow!](README.md)
+* [⚒ Very utility ⚆⚆ Wow!](README.md)
 
 ## ShibeFace Roadmap <a href="#roadmap" id="roadmap"></a>
 
