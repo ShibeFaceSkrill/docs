@@ -17,6 +17,9 @@ description: 999 Shibes and a problem, aint one!
 
 **The NFT in our "official" launch will be time-released smart contract wallets, that save a portion of their purchase price, denominated in DOGE or SHIB (pegged assets dependent on which chain), released to its holder in 5 years.. (exact time to lock decided by ETH sale participants).**
 
-For an NFT launch itself, I would prefer Solana to be next, but not sure which Shibe tokens are available as synthetic assets on Solana. Polygon, on the other hand, probably has both Doge and Shib pegged and available for this use-case.
+For an NFT launch itself, I would prefer Solana to be next, but not sure which Shibe tokens are available as synthetic assets on Solana. \
+
+
+Polygon, on the other hand, probably has both Doge and Shib pegged and available for this use-case.
 
 ****
