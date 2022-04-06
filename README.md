@@ -57,8 +57,8 @@ We have many of our own plans and creative ideas for Shibe Faced NFT, but we're 
 
 #### You like NFT that controll smart-contract wallets and planning activities of our DAO?
 
-{% content-ref url="roadmap/matic-or-solana-official.md" %}
-[matic-or-solana-official.md](roadmap/matic-or-solana-official.md)
+{% content-ref url="roadmap/solana-official.md" %}
+[solana-official.md](roadmap/solana-official.md)
 {% endcontent-ref %}
 
 #### Boldly into the future. We've got goals and the means to achieve them!&#x20;

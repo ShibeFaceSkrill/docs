@@ -36,7 +36,7 @@ The SHIB burn is our main utility planned for the Bootstrap sale. If for some re
 \
 If our sale completes and less than half is paid with SHIB then we can use some of those funds for community development.
 
-The bootstrap phase is meant to prepare us for our "[Official Launch](matic-or-solana-official.md)" that will occur in the month after our ETH sale is complete.&#x20;
+The bootstrap phase is meant to prepare us for our "[Official Launch](solana-official.md)" that will occur in the month after our ETH sale is complete.&#x20;
 
 We have ideas and moxy enough to get through the next year. We want to create something that will last beyond our direct involvement, so the community can share in the profits and the opportunity to learn various aspects of NFT project management.&#x20;
 
