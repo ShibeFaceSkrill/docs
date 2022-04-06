@@ -1,11 +1,11 @@
 ---
-description: So Artafishul ❦ Much Shibe!
+description: So Artafishul 🦾 Much Shibe!
 ---
 
 # 😵 Very utility ⚆⚆ Wow!
 
 {% hint style="danger" %}
-Not Your Granddad's NFT Collection 🧐
+Not Your Granddad's NFT Collection&#x20;
 {% endhint %}
 
 ### **A Dog-Lover's Best Friend**
@@ -49,31 +49,31 @@ Instead, we've designed the structure of our launches to foster grass-roots grow
 
 We have many of our own plans and creative ideas for Shibe Faced NFT, but we're also looking forward to your input! All roadmap items subject to the influence of our growing community.
 
-#### _**Help Decide**_ on which chains to launch next and which utilities to prioritize. 🤠
+#### _**Help Decide**_ on which chains to launch next and which utilities to prioritize.&#x20;
 
 {% content-ref url="roadmap/ethereum-bootstrap.md" %}
 [ethereum-bootstrap.md](roadmap/ethereum-bootstrap.md)
 {% endcontent-ref %}
 
-#### You like NFT that controll smart-contract wallets 🏦 and planning activities of our DAO?
+#### You like NFT that controll smart-contract wallets and planning activities of our DAO?
 
 {% content-ref url="roadmap/matic-or-solana-official.md" %}
 [matic-or-solana-official.md](roadmap/matic-or-solana-official.md)
 {% endcontent-ref %}
 
-#### Boldly into the future. We've got goals and the means to achieve them! 🧙
+#### Boldly into the future. We've got goals and the means to achieve them!&#x20;
 
 {% content-ref url="roadmap/iota-or-cardano-explore.md" %}
 [iota-or-cardano-explore.md](roadmap/iota-or-cardano-explore.md)
 {% endcontent-ref %}
 
-#### Buy a ShibeFace NFT, join the crew, bring vision, build, grow, love! ✨
+#### Buy a ShibeFace NFT, join the crew, bring vision, build, grow, love!&#x20;
 
 {% content-ref url="roadmap/shibefacedao-and-beyond.md" %}
 [shibefacedao-and-beyond.md](roadmap/shibefacedao-and-beyond.md)
 {% endcontent-ref %}
 
-### Very Memesis 🌕 Such Token
+### How Memesis, Such Token
 
 {% hint style="info" %}
 W_e need a name for the new replicator, a noun that conveys the idea of a unit of cultural transmission, or a unit of imitation. ... I hope my classicist friends will forgive me if I abbreviate mimeme to meme._ [**Richard Dawkins "The Selfish Gene"**](https://en.wikipedia.org/wiki/The\_Selfish\_Gene)
@@ -81,19 +81,19 @@ W_e need a name for the new replicator, a noun that conveys the idea of a unit o
 
 ![Such memetics](<.gitbook/assets/image (8).png>)
 
-#### The Original Shiba Inu Faced 🪙 D • O • G • E 🪙&#x20;
+#### The Original Shiba Inu Faced D • O • G • E&#x20;
 
 {% content-ref url="memetics/first-came-doge.md" %}
 [first-came-doge.md](memetics/first-came-doge.md)
 {% endcontent-ref %}
 
-#### &#x20;💎 The New King of Crypto 👑&#x20;
+#### &#x20;The New King of Crypto&#x20;
 
 {% content-ref url="memetics/then-came-shib.md" %}
 [then-came-shib.md](memetics/then-came-shib.md)
 {% endcontent-ref %}
 
-#### 🐕 So many puppies 👶
+#### So many puppies&#x20;
 
 {% content-ref url="memetics/and-then-and-then-and-then.md" %}
 [and-then-and-then-and-then.md](memetics/and-then-and-then-and-then.md)
