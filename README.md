@@ -2,7 +2,7 @@
 description: So Artafishul 👾 Much Shibe!
 ---
 
-# 🧰 Very utility 👀 Wow! 😲
+# 🙌 Very utility 🙌 Wow! 😲
 
 {% hint style="warning" %}
 🧓 Not Your Granddad's NFT Collection👨🏾‍🦯
