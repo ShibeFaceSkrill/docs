@@ -2,7 +2,7 @@
 description: So Artafishul 👾 Much Shibe!
 ---
 
-# 🐕 Very utility. Wow!
+# 🧰 Very utility 👀 Wow! 😲
 
 {% hint style="warning" %}
 🧓 Not Your Granddad's NFT Collection👨🏾‍🦯
@@ -22,15 +22,24 @@ Each launch will feature a unique financial use-case.
 
 ### What's different about ShibeFaceSkrill?
 
-Besides everything? :joy:
+#### Besides everything? :joy:
 
-NFT launches **** commonly involve massive marketing budgets that include big payouts and giveaways to influencers.
+* We like realistic coins with realistic faces of our very favorite Shiba Inu.&#x20;
+* We like artists and memesters native to the Shiba_verse_
+* We like creative approach to NFT launch design and utility
+* We prioritize community over influencers &#x20;
 
-In theory, influencers are needed to get seen by a lot of eyes, and build the necessary hype.&#x20;
+**NFT launches commonly involve big payouts to influencers.**&#x20;
 
-In practice, these influencers are rarely friends to the community or the project's success.
+_In theory_, influencers are needed to get seen by a lot of eyes, and attract the necessary attention.
 
-We think shifting a significant portion of the budget from paying influencers to providing real value for our community could make a revolutionary shift for NFT launches.&#x20;
+_In practice_, these NFT influencers are rarely friends to the community or the project's success.
+
+> _**Our focus in on community, NOT HYPE.**_**  -ShibeFace**
+
+Instead, we've designed the structure of our launches to foster grass-roots growth, so that each launch builds to the next, and to the extent that we are successful, the community can eventually take ownership of that success, with the eventual launch of ShibeFaceDAO.&#x20;
+
+![ShibeFaceSkrill](.gitbook/assets/464-GcLaurel\_coin.png)
 
 ### Roadmap: Jump right in
 
