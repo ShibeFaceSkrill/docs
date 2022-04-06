@@ -1,11 +1,11 @@
 ---
-description: So Artafishul 👾 Much Shibe!
+description: So Artafishul ❦ Much Shibe!
 ---
 
-# 🙌 Very utility 🙌 Wow! 😲
+# 😵 Very utility ⚆⚆ Wow!
 
-{% hint style="warning" %}
-🧓 Not Your Granddad's NFT Collection👨🏾‍🦯
+{% hint style="danger" %}
+Not Your Granddad's NFT Collection 🧐
 {% endhint %}
 
 ### **A Dog-Lover's Best Friend**
@@ -49,7 +49,7 @@ Instead, we've designed the structure of our launches to foster grass-roots grow
 
 We have many of our own plans and creative ideas for Shibe Faced NFT, but we're also looking forward to your input! All roadmap items subject to the influence of our growing community.
 
-#### _**Help Decide**_ on which chains to launch next and which utilities to prioritize. 🧑🏾‍🤝‍🧑🏽
+#### _**Help Decide**_ on which chains to launch next and which utilities to prioritize. 🤠
 
 {% content-ref url="roadmap/ethereum-bootstrap.md" %}
 [ethereum-bootstrap.md](roadmap/ethereum-bootstrap.md)
