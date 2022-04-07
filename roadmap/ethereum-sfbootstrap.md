@@ -1,5 +1,7 @@
 ---
 description: '333 NFT on the original smart contracts platform: Ethereum'
+cover: ../.gitbook/assets/ethfaceheader2 (1).png
+coverY: 0
 ---
 
 # 🥰 Ethereum: sfBootstrap
