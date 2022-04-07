@@ -1,5 +1,7 @@
 ---
 description: So Artafishul ☤ Much Shibe!
+cover: .gitbook/assets/shibefaceheader (1).png
+coverY: 0
 ---
 
 # ⚒ Very utility ⚆⚆ Wow!
@@ -44,27 +46,27 @@ Instead, we've designed the structure of our launches to foster grass-roots grow
 ### Roadmap: Jump right in
 
 {% hint style="info" %}
-[**ShibeFace Genesis Drop Coming Soon to Ethereum**](roadmap/ethereum-bootstrap.md)**.**&#x20;
+[**ShibeFace Genesis Drop Coming Soon to Ethereum**](roadmap/ethereum-sfbootstrap.md)**.**&#x20;
 {% endhint %}
 
 We have many of our own plans and creative ideas for Shibe Faced NFT, but we're also looking forward to your input! All roadmap items subject to the influence of our growing community.
 
 #### _**Help Decide**_ on which chains to launch next and which utilities to prioritize.&#x20;
 
-{% content-ref url="roadmap/ethereum-bootstrap.md" %}
-[ethereum-bootstrap.md](roadmap/ethereum-bootstrap.md)
+{% content-ref url="roadmap/ethereum-sfbootstrap.md" %}
+[ethereum-sfbootstrap.md](roadmap/ethereum-sfbootstrap.md)
 {% endcontent-ref %}
 
 #### You like NFT that controll smart-contract wallets and planning activities of our DAO?
 
-{% content-ref url="roadmap/solana-or-matic-official.md" %}
-[solana-or-matic-official.md](roadmap/solana-or-matic-official.md)
+{% content-ref url="roadmap/solana-or-matic-sfofficial.md" %}
+[solana-or-matic-sfofficial.md](roadmap/solana-or-matic-sfofficial.md)
 {% endcontent-ref %}
 
 #### Boldly into the future. We've got goals and the means to achieve them!&#x20;
 
-{% content-ref url="roadmap/iota-or-cardano-explore.md" %}
-[iota-or-cardano-explore.md](roadmap/iota-or-cardano-explore.md)
+{% content-ref url="roadmap/iota-or-cardano-sfexplore.md" %}
+[iota-or-cardano-sfexplore.md](roadmap/iota-or-cardano-sfexplore.md)
 {% endcontent-ref %}
 
 #### Buy a ShibeFace NFT, join the crew, bring vision, build, grow, love!&#x20;

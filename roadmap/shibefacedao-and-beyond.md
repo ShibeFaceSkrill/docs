@@ -1,8 +1,10 @@
 ---
 description: 10k NFT..... but where tho?
+cover: ../.gitbook/assets/shibefaceheader2.png
+coverY: 0
 ---
 
-# 🤠 ShibeFaceDAO and Beyond!
+# 🤠 ShibeFaceDAO & Beyond!
 
 We hope to be seriously working towards the DAO after the Cruizin' launch.
 

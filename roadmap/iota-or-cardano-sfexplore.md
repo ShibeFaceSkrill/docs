@@ -1,10 +1,12 @@
 ---
-description: '3333 NFT : Depending on community feedback and relevant developments.'
+description: '3333 NFT : details TBD based on community feedback and relevant developments.'
+cover: ../.gitbook/assets/cardano-iota (3).png
+coverY: 0
 ---
 
-# 🤓 Iota|Cardano: Explore
+# 🤓 Iota|Cardano: sfExplore
 
-Now, we can explore any number of blockchains, as a community.&#x20;
+From this point, we can explore any number of blockchains, as a community.&#x20;
 
 We will have a strong sense by now what direction the project should pursue in the immediate future.&#x20;
 
@@ -14,4 +16,4 @@ That said, we already have a few ideas that would make this an epic launch. One 
 
 * Financial Utility: TBD.&#x20;
 * Holder of tokens from this sale to receive a corresponding token on 1 following launch.
-* Each NFT mints tokens to HOLDers (details dependent on "[Official](ethereum-bootstrap.md)" Launch).
+* Each NFT mints SKRILL tokens to HOLDers.
