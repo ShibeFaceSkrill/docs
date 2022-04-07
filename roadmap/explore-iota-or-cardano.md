@@ -1,10 +1,10 @@
 ---
-description: '3333 NFT : details TBD based on community feedback and relevant developments.'
+description: '3333 NFT : the world is your oyster'
 cover: ../.gitbook/assets/cardano-iota (3).png
 coverY: 0
 ---
 
-# 🤓 Iota|Cardano: sfExplore
+# 🤓 Explore: Iota|Cardano
 
 From this point, we can explore any number of blockchains, as a community.&#x20;
 

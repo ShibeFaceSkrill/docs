@@ -4,9 +4,9 @@
 
 ## ShibeFace Roadmap <a href="#roadmap" id="roadmap"></a>
 
-* [🥰 Ethereum: sfBootstrap](roadmap/ethereum-sfbootstrap.md)
-* [😎 Solana|Matic: sfOfficial!](roadmap/solana-or-matic-sfofficial.md)
-* [🤓 Iota|Cardano: sfExplore](roadmap/iota-or-cardano-sfexplore.md)
+* [🥰 Bootstrap: Ethereum](roadmap/bootstrap-ethereum.md)
+* [😎 Official: Solana|Matic](roadmap/official-solana-or-matic.md)
+* [🤓 Explore: Iota|Cardano](roadmap/explore-iota-or-cardano.md)
 * [🤠 ShibeFaceDAO & Beyond!](roadmap/shibefacedao-and-beyond.md)
 
 ## memetics
