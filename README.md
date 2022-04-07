@@ -14,7 +14,7 @@ Not Your Granddad's NFT Collection&#x20;
 
 ShibeFaceSkrill will involve a series of NFT drops on different blockchains, exploring financial use-cases, communities and tech-stacks.
 
-That exploration will culminate in the creation of ShibeFaceDao, cross-chain DeFi hub, and gamified NFT ecosystem.
+Our journey of exploration will culminate in the creation of ShibeFaceDao, a cross-chain DeFi hub, and gamified NFT ecosystem.
 
 ![Shibe Bless](<.gitbook/assets/image (3).png>)
 
@@ -24,12 +24,15 @@ Each launch will feature a unique financial use-case.
 
 ### What's different about ShibeFaceSkrill?
 
+#### ![](.gitbook/assets/wazatoz-doge.gif)
+
 #### Besides everything? :joy:
 
-* We like realistic coins with realistic faces of our very favorite Shiba Inu.&#x20;
-* We like artists and memesters native to the Shiba_verse_
-* We like creative approach to NFT launch design and utility
-* We prioritize community over influencers &#x20;
+* We love memes with shibes.&#x20;
+* We like coins with realistic faces of our very favorite Shiba Inu.&#x20;
+* We love artists and memesters native to the Shiba_verse._
+* We make a creative approach to NFT launch design and utility.
+* We prioritize community over influencers.
 
 **NFT launches commonly involve big payouts to influencers.**&#x20;
 
@@ -37,9 +40,11 @@ _In theory_, influencers are needed to get seen by a lot of eyes, and attract ne
 
 _In practice_, NFT influencers are rarely friends to the community or a project's success.
 
-> _**Our focus in on community, NOT HYPE.**_**  -ShibeFace**
+> _**Our focus is on dank memes and community, NOT HYPE.**_**  -ShibeFace**
 
-Instead, we've designed the structure of our launches to foster grass-roots growth, so that each launch builds to the next, and to the extent that we are successful, the community can eventually take ownership of that success, with the eventual launch of ShibeFaceDAO.&#x20;
+We've structured this series of launches to prioritize grass-roots growth, so that the community of each launch has something to look forward to and build towards.&#x20;
+
+To the extent that we are successful, the community can grow into and own of that success, with their participation in launch of ShibeFaceDAO.&#x20;
 
 ![ShibeFaceSkrill](.gitbook/assets/464-GcLaurel\_coin.png)
 
