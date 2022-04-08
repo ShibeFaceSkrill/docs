@@ -14,7 +14,7 @@ While we believe in the future DOGE and SHIB, both, _my heart_ is with the Dogec
 
 ### ShibeFace - Founder and Bootstrap Technician
 
-![I like running fast in the snow!](<../.gitbook/assets/image (10).png>)
+![I like running fast in the snow!](../.gitbook/assets/shiba-inu-3087207\_1280.jpg)
 
 BBS-era cyberpunk that found crypto in 2016, and got caught in the mania of 2017.  Since then, I've learned everything I could about bitcoin and and cryptocurrency.
 
@@ -32,21 +32,9 @@ I've personally obsessed over every detail in creating artificial Shibes and lau
 
 _**I love to learn and to share knowledge with people who will act on it.**_&#x20;
 
-### Okura Tatsuhiro - Smart Contracts + Full-Stack Expert
-
-![Did somebody mention a walk???](<../.gitbook/assets/image (14) (1).png>)
-
-Passionate full-stack developer with 9+ years of experience, leadership skills and unrivaled building skills. Skilled in JS Frameworks (React, Vue), Web Dev Stacks (MEAN, LAMP), Version Control (Git), Databases (Oracle, MySQL), CMS, Blockchain, Smart Contract, Cryptography.&#x20;
-
-I helped the bottom line at Isetan Mitsukoshi Dev, delight clients at Kajima Dev, and deliver high-quality web development for Opentext Dev. At Logica, led development for $30M in revenue per year. Managed 5 teams of 5-7 developers each. Worked with customers during the period of 15% increase in repeat business.
-
-As a freelance developer, completed 5+ end-to-end client projects, including the webapp for the sports betting website and blockchain projects. Contributed to 40+ GitHub projects and completed 10+ personal full-stack and blockchain development projects with 95% client satisfaction.&#x20;
-
-_**Main goal is to work with agile business owners and ambitious entrepreneurs with big ideas.**_
-
 ### 0xJPEG - Market Research & JPEG Analyst
 
-![I sniffed something!](<../.gitbook/assets/image (11) (1).png>)
+![I sniffed something!](<../.gitbook/assets/image (1).png>)
 
 I started my crypto journey in 2020 by watching some of the worst shills on YouTube and eventually made my way into DeFi in early 2021.
 
@@ -56,4 +44,34 @@ Spent way too much time (even during my fiat-mining duties) browsing Twitter and
 
 _**I believe the launch-team and community who sticks together will outlast vaporware and hype.**_&#x20;
 
-### **Let's build!**
+#### **Let's build!**
+
+### Okura Tatsuhiro - Smart Contracts + Full-Stack Expert
+
+![Did someone mention a walk?](../.gitbook/assets/sean-stratton-IMr1gzYD8tE-unsplash.jpg)
+
+Passionate full-stack developer with 9+ years of experience, leadership skills and unrivaled building skills. Skilled in JS Frameworks (React, Vue), Web Dev Stacks (MEAN, LAMP), Version Control (Git), Databases (Oracle, MySQL), CMS, Blockchain, Smart Contract, Cryptography.&#x20;
+
+I helped the bottom line at Isetan Mitsukoshi Dev, delight clients at Kajima Dev, and deliver high-quality web development for Opentext Dev. At Logica, led development for $30M in revenue per year. Managed 5 teams of 5-7 developers each. Worked with customers during the period of 15% increase in repeat business.
+
+As a freelance developer, completed 5+ end-to-end client projects, including the webapp for the sports betting website and blockchain projects. Contributed to 40+ GitHub projects and completed 10+ personal full-stack and blockchain development projects with 95% client satisfaction.&#x20;
+
+_**Main goal is to work with agile business owners and ambitious entrepreneurs with big ideas.**_
+
+### Adebimpe Omolaso **- User Experience and Design**
+
+![Is that a treat for me?](<../.gitbook/assets/image (6).png>)
+
+To me, design is a way of crafting new worlds where everyone gets to be who they really want to be deep within. I collaborate with teams or colleagues and users to design and develop products from ground up keeping in mind the final goal and strategy of the client's business. In my work, I do my best to meet my clients' expectations and deadlines while focusing on user-centric design philosophy.
+
+**I feel a sense of deep satisfaction when user needs and business goals align.**&#x20;
+
+### More Information
+
+[ShibeFace](https://github.com/ShibeFaceSkrill/ShibeFaceSkrill): **** _Image by_ [_kazzzsat_](https://pixabay.com/users/kazzzsat-7677733/)__
+
+[0xJPEG](https://twitter.com/0x\_JPEGs): _Image by_ [_Silvia Mores_](https://www.silviamores.com)__
+
+[Okura Tatsuhiro](https://github.com/TopTecShare/): _Image by_ [_Sean Stratton_](https://unsplash.com/@seanstratton)__
+
+[Adebimpe Omolaso](https://www.adebimpeomolaso.com)**:** _Image by_ [_Petr Magera_](https://unsplash.com/@mpetrucho)__

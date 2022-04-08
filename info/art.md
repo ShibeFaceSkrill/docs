@@ -20,7 +20,7 @@ For that, we used some "style transfer" and a touch of hoodoo to plate the faces
 
 &#x20;
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (1).png>)
 
 With a little elbow-grease, we've got something that looks like an actual coin! :heart\_exclamation:
 
