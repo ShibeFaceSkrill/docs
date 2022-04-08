@@ -4,33 +4,33 @@ description: A likely pack of shibes! 🐾 That's right! ✅ We've got the stuff
 
 # 👥 Team
 
+### Back Story &#x20;
+
+ShibeFace and 0xJPEG met during the great DeFi awakening of 2021. We had great fun (and pain) learning the wonders of this brand new multi-chain ecosystem growing rapidly all around.
+
+When I (ShibeFace) conceived of creating an NFT collection, I didn't tell _anyone_ what I was working on, but knew I had to bring 0xJPEG along for the ride.
+
+While we believe in the future DOGE and SHIB, both, _my heart_ is with the Dogecoin community, while 0xJPEG is more closely aligned with the Shib Army.
+
 ### ShibeFace - Founder and Bootstrap Technician
 
 ![I like running fast in the snow!](<../.gitbook/assets/image (10).png>)
 
-BBS-era cyberpunk that found crypto in 2016, and got caught in the mania of 2017. Then I learned everything I could about bitcoin and and cryptocurrency.
+BBS-era cyberpunk that found crypto in 2016, and got caught in the mania of 2017.  Since then, I've learned everything I could about bitcoin and and cryptocurrency.
 
-During the down-turn, I learned some coding and web skills. When the bulls came back and DeFi was popping off, I hopped along for that wild ride, back in the game full-time.&#x20;
+Since then, I picked up some web-dev skills, and eventually hopped onto the DeFi bandwagon 2021. Later, I had the opportunity to help launch (and sell out) a 10k PFP NFT, and realized I had most of the skills necessary to launch my own.&#x20;
 
-After DeFi slowed down, I had the opportunity to help launch (and sell out) a 10k PFP NFT.&#x20;
+I've had other opportunities, but think NFT drops could use a creative touch, and am happy to throw my hat into the ring. I love the opportunity in permissionless innovation, Ethereum and beyond!
 
-I realized I had almost all the pieces necessary to launch my own project.&#x20;
-
-I've since been offered to help launch many other NFT, but think NFT needs some more creativity, and have my own ideas.&#x20;
-
-I love the opportunity in permissionless innovation, Ethereum and beyond!
-
-I don't know everything, but love to learn. I get my hands dirty at every stage of the journey, and have personally obsessed over every detail in creating artificial Shibes and launching these NFT, including:
+I've personally obsessed over every detail in creating artificial Shibes and launching these NFT, including:
 
 * Dataset gathering, cleaning, prep. (collect shibe pictures 🥰)
 * Training stylegan networks. (share shibe collection with AI)
-* Learn to read Solidity and React (Web3 <3 React).
-* How to use web3 tool-chains for developing smart-contracts and their websites.
+* Learn to read Solidity, React, Typescript (React <3 Web3).
+* Use web3 tool-chains to compile, deploy and test smart-contracts + their websites.
 * Deploy smart contracts to test net and mint NFT. 🚀🚀🚀
 
-I can't actually **do** all of the things, but at least know how they should work.
-
-I've got the drive and the determination. _**I never give up**_, and know there's always plenty of twists & turns before I get to the finish-line.
+_**I love to learn and to share knowledge with people who will act on it.**_&#x20;
 
 ### Okura Tatsuhiro - Smart Contracts + Full-Stack Expert
 
@@ -54,6 +54,6 @@ A keen observer of the market from DeFi to NFT. I have survived numerous rug-pul
 
 Spent way too much time (even during my fiat-mining duties) browsing Twitter and numerous discord channels seeking alpha, with the sole goal of becoming a meaningful contributor and builder in the Cryptoverse.
 
-I wholeheartedly believe that a launch-team and community who sticks together and builds will outlast the vaporware and hype.&#x20;
+_**I believe the launch-team and community who sticks together will outlast vaporware and hype.**_&#x20;
 
-#### **Let's build!**
+### **Let's build!**
