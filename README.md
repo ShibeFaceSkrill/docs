@@ -10,7 +10,7 @@ coverY: 0
 Not Your Granddad's NFT Collection&#x20;
 {% endhint %}
 
-### So Artefishul ☥ Much Shibe!
+### So Artefishul 👾 Much Shibe!
 
 ShibeFaceSkrill will involve a series of NFT drops on different blockchains, exploring financial use-cases, communities and tech-stacks.
 
