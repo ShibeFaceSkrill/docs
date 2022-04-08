@@ -1,5 +1,7 @@
 ---
 description: SHIB 🐕 LEASH 🪢 BONE 🦴
+cover: ../.gitbook/assets/SHIB-Burns-Sets-Stage-for-LONG-TERM-GROWTH-Shiba.webp
+coverY: 0
 ---
 
 # 💰 Then came SHIB

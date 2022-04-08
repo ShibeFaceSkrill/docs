@@ -1,5 +1,7 @@
 ---
 description: Shibe face images, toads knees, and some actual pixie dust
+cover: ../.gitbook/assets/montage_header2.png
+coverY: 0
 ---
 
 # 🎨 Art
@@ -21,6 +23,8 @@ For that, we used some "style transfer" and a touch of hoodoo to plate the faces
 ![](<../.gitbook/assets/image (6).png>)
 
 With a little elbow-grease, we've got something that looks like an actual coin! :heart\_exclamation:
+
+
 
 ### The Future
 

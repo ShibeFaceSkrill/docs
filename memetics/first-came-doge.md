@@ -1,5 +1,7 @@
 ---
 description: The original memecoin.
+cover: ../.gitbook/assets/doge-pattern-27481-2880x1800.jpg
+coverY: 0
 ---
 
 # 🪙 First came DOGE
