@@ -1,5 +1,5 @@
 ---
-description: So Artafishul ☤ Much Shibe!
+description: A Shibe's Best Friend
 cover: .gitbook/assets/shibefaceheader (1).png
 coverY: 0
 ---
@@ -10,7 +10,7 @@ coverY: 0
 Not Your Granddad's NFT Collection&#x20;
 {% endhint %}
 
-### **A Dog-Lover's Best Friend**
+### So Artefishul ☥ Much Shibe!
 
 ShibeFaceSkrill will involve a series of NFT drops on different blockchains, exploring financial use-cases, communities and tech-stacks.
 
@@ -47,6 +47,8 @@ We've structured this series of launches to prioritize grass-roots growth, so th
 To the extent that we are successful, the community can grow into and own of that success, with their participation in launch of ShibeFaceDAO.&#x20;
 
 ![ShibeFaceSkrill](.gitbook/assets/464-GcLaurel\_coin.png)
+
+
 
 ### Roadmap: Jump right in
 
