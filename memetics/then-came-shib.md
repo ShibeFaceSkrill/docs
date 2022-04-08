@@ -4,9 +4,9 @@ description: SHIB 🐕 LEASH 🪢 BONE 🦴
 
 # 💰 Then came SHIB
 
-Ethereum and its virtual machine have become the most potent meme in cryptocurrency, it's no surprise then that Ethereum would spawn its own infectious Shiba Inu coin.
+Ethereum and its virtual machine have become the most potent meme in tech. It's no surprise that Ethereum would spawn its own infectious Shiba Inu coin.
 
-Shib is Ethereum's answer to Dogecoin. Originally branded as "the dogecoin killer", as a joke on the many tokens that have branded themselves as Ethereum killers.
+Shib is Ethereum's answer to Dogecoin. Same meme-worthy dog, but programmable with smart-contracts! Originally Shib was branded as "the dogecoin killer", a joke on the many tokens that branded themselves as Ethereum killers.
 
 ![](<../.gitbook/assets/image (1).png>)
 
@@ -16,10 +16,8 @@ Shib is only growing stronger during the recent consolidation, and we can say co
 
 ![SHIB Meme Master](<../.gitbook/assets/image (6) (1).png>)
 
-The [**v2 Woofpaper**](https://github.com/shytoshikusama/woofwoofpaper/raw/main/SHIBA\_INU\_WOOF\_WOOF.pdf) **** no longer contains any reference to 'killing' dogecoin, but the tokens DOGE and SHIB seem inexorably twined.&#x20;
+The [**v2 Woofpaper**](https://github.com/shytoshikusama/woofwoofpaper/raw/main/SHIBA\_INU\_WOOF\_WOOF.pdf) **** no longer contains any reference to 'killing' dogecoin, but the diehards want nothing to do with DOGE, and there is definitely a sense of rivalry.&#x20;
 
-Today, the Shiba Inu token's narrative is driven around its spirited community, massive token burns, massive accumulation by ETH whales, and an ecosystem of utility being created around the tokens SHIB, LEASH and BONE.
+Today, the Shiba Inu token's narrative is driven around its spirited community, massive token burns, accumulation by ETH whales, and an ecosystem of utility being created around the tokens SHIB, LEASH and BONE.
 
 ![source](<../.gitbook/assets/image (11).png>)
-
-What it means for us launching NFT, on Ethereum chain, where NFT culture has blossomed and burst into the mainstream, it's only right to heavily feature SHIB in our Roadmap.

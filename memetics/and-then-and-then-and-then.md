@@ -16,7 +16,7 @@ Many other Shiba Inu related coins arise every day. Most of these immediately du
 
 **We're here for the fun and the utilities!**
 
-One thing cryptocurrencies have proven is that Fun and Finance can go hand-in-hand. We're combining the best of DeFi with timeless memetics.&#x20;
+One thing cryptocurrencies have proven is that _Fun_ and _Finance_ go hand-in-hand. That's why we're bringing the best that DeFi has to offer with NFT and timeless memetics.&#x20;
 
 ### I'm putting it all in Dog Money!
 
