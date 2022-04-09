@@ -6,29 +6,29 @@ coverY: 0
 
 # 🤠 ShibeFaceDAO & Beyond!
 
-We hope to be seriously working towards the DAO after the [Explore](explore-iota-or-cardano.md) launch.
+By the time we've released our first 3 collections, we hope to be seriously working towards ShibeFaceDAO, by this point.
 
-The idea is in the beginning, the core team makes most decisions and has most responsibilities, while still giving the community plenty opportunity to guide the flow, and gently guiding the community into the drivers seat, across a series of NFT Drops. &#x20;
+The idea being that, in the beginning, the core team make most decisions and have most responsibilities, but giving the community plenty room to guide the flow, gently guiding them towards the drivers seat, across a series of NFT Drops. &#x20;
 
-There are a few other chains we'd like to launch NFT on before creating the cross-chain rewards hub. That could include somewhere between 3-6 NFT before going full-DAO and launching our DeFi hub & community accelerator.
+There are a few other chains we'd like to launch NFT on before creating a cross-chain community accelerator. That could include a total of 3-6 NFT collections before going full-DAO.
 
-Before crossing that check-point, we will have demonstrated a variety of DeFi use-cases integrated with NFTs and created a play-book of utilities for future launches.  \
-\
-**Lets take NFT launches to the next level.**&#x20;
+Before reaching that point, we will have demonstrated a variety of DeFi use-cases integrated with NFTs and have created a play-book of patterns for future launches. &#x20;
+
+### Lets take NFT launches to the next level
 
 Have we seen enough 10k PFP collections that try to strap utility on as an after-thought?&#x20;
 
 ![(source)](<../.gitbook/assets/image (13).png>)
 
-#### Join us and help to shape the future of NFT launches.
+#### Join us and help shape the future of NFT launches.
 
 ### Moving Forward
 
 * Create a public\open-source dataset of Shiba Inu faces, so anyone can train neural networks to create a multitude of artificial images based upon them.
 * Create a DeFi NFT launch-strategy playbook.&#x20;
-* Create an on-ramp for community members to carve our their own slice in the NFT ecosystem's early days.&#x20;
-* We will groom community managers, Web 3 technicians, meme-masters, NFT designers, and other roles crucial to launching next gen NFT collections.
-* Launch ShibeFace Dao whose purpose is:
+* Support community members to participate more fully in the early days of NFT.&#x20;
+* Groom enthusiastic participants into community managers, web 3 techs, meme-masters, NFT designers, and other roles crucial to next gen NFT collections.
+* Launch ShibeFaceDao whose purpose is:
   * Map out DeFi NFT use-cases.
   * Continue launching collections under this brand.
   * Manage the treasury and all funds from future ShibeFace NFT sales.

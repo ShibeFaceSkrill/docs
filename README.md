@@ -64,7 +64,7 @@ We have many of our own plans and creative ideas for Shibe Faced NFT, but we're 
 [bootstrap-ethereum.md](roadmap/bootstrap-ethereum.md)
 {% endcontent-ref %}
 
-#### You like NFT that controll smart-contract wallets and planning activities of our DAO?
+#### You like NFT that control smart-contract wallets and planning activities of our DAO?
 
 {% content-ref url="roadmap/official-solana-or-matic.md" %}
 [official-solana-or-matic.md](roadmap/official-solana-or-matic.md)

@@ -48,11 +48,11 @@ We will grow together and, as a community, define the future of ShibeFace DAO.
 
 _**Join us**_ for the ETH launch and become part of our inner circle for NFT Drops leading to the opening of our cross-chain rewards-hub in 2023.
 
-### Key Points ETH Genesis:
+### Key Takeaways: ETH Genesis
 
-* **Team building**&#x20;
-* **Community development**
-* **Buy with shib 40% burned**
-* **Incorporate Shib and Doge Payments**
-* **Eligible holders win "Companion" NFT on future cross-chain mints**
-* **Fill out road-map based on user-feedback**
+* Team building&#x20;
+* Community development
+* Buy with shib 40% burned
+* Incorporate Shib and Doge Payments
+* Eligible holders win "Companion" NFT on future cross-chain mints
+* Fill out road-map based on user-feedback
