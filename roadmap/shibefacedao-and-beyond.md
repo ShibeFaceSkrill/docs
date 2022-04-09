@@ -1,16 +1,16 @@
 ---
-description: 10k NFT..... but where tho?
+description: 9999 NFT..... but where tho?
 cover: ../.gitbook/assets/shibefaceheader2.png
 coverY: 0
 ---
 
 # 🤠 ShibeFaceDAO & Beyond!
 
-By the time we've released our first 3 collections, we hope to be seriously working towards ShibeFaceDAO, by this point.
+By the time we've released our first 3 collections, we hope to be seriously working towards ShibeFaceDAO.
 
-The idea being that, in the beginning, the core team make most decisions and have most responsibilities, but giving the community plenty room to guide the flow, gently guiding them towards the drivers seat, across a series of NFT Drops. &#x20;
+The idea being that, in the beginning, the core team make most decisions and have most responsibilities, while giving the community room to guide the flow, gradually distributing responsibilities from its centralized inception, across a series of NFT Drops. &#x20;
 
-There are a few other chains we'd like to launch NFT on before creating a cross-chain community accelerator. That could include a total of 3-6 NFT collections before going full-DAO.
+There are a few other chains we'd like to launch NFT on before creating a cross-chain community accelerator. That could include a total of 4-6 NFT collections before going full-DAO.
 
 Before reaching that point, we will have demonstrated a variety of DeFi use-cases integrated with NFTs and have created a play-book of patterns for future launches. &#x20;
 
