@@ -36,17 +36,17 @@ Each launch will feature a unique financial use-case.
 
 **NFT launches commonly involve big payouts to influencers.**&#x20;
 
-_In theory_, influencers are needed to get seen by a lot of eyes, and attract necessary attention.
+_In theory_, influencers are needed to gain visibility, and attract necessary attention.
 
 _In practice_, NFT influencers are rarely friends to the community or a project's success.
 
 > _**Our focus is on dank memes and community, NOT HYPE.**_**  -ShibeFace**
 
-We've structured this series of launches to prioritize grass-roots growth, so that the community from each collection has something to look forward and build towards.&#x20;
+We've structured this series of launches to prioritize organic growth, so that the community from each collection has something to look forward and build towards.&#x20;
 
-Starting small and building up to bigger collections also allows the team to gradually build trust over time.&#x20;
+Starting small and building up gradually to bigger collections also allows the team to gain trust over time.&#x20;
 
-To the extent that we are successful, the community can grow into, and own some of that, by participation in creating ShibeFaceDAO.&#x20;
+To the extent that we are successful, community members can grow into that success, taking ownership of the brand, through participation in ShibeFaceDAO.
 
 ![ShibeFaceSkrill](.gitbook/assets/464-GcLaurel\_coin.png)
 
