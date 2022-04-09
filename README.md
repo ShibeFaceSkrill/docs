@@ -42,9 +42,11 @@ _In practice_, NFT influencers are rarely friends to the community or a project'
 
 > _**Our focus is on dank memes and community, NOT HYPE.**_**  -ShibeFace**
 
-We've structured this series of launches to prioritize grass-roots growth, so that the community of each launch has something to look forward to and build towards.&#x20;
+We've structured this series of launches to prioritize grass-roots growth, so that the community from each collection has something to look forward and build towards.&#x20;
 
-To the extent that we are successful, the community can grow into and own of that success, with their participation in launch of ShibeFaceDAO.&#x20;
+Starting small and building up to bigger collections also allows the team to gradually build trust over time.&#x20;
+
+To the extent that we are successful, the community can grow into, and own some of that, by participation in creating ShibeFaceDAO.&#x20;
 
 ![ShibeFaceSkrill](.gitbook/assets/464-GcLaurel\_coin.png)
 
