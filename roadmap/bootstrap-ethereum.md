@@ -12,15 +12,8 @@ coverY: 0
 
 This limited release of 333 Shibe Faced NFT will launch our community and brand.
 
-_<mark style="background-color:yellow;">**These NFT are a Master Key to this upcoming series of launches. Eligible holders will be gifted a corresponding NFT on successive launches (until ShibeFace DAO).**</mark>_
-
-### Pay with SHIB:  40% burned.
-
-Since we know how much SHIB community loves burning, If you buy with SHIB, instead of ETH, then 40% of your purchase price will be burned.
-
-{% hint style="info" %}
-We shifted most of our "influencer budget" towards providing utility for our holders.&#x20;
-{% endhint %}
+* Eligible holders gifted a corresponding NFT on successive launches (until ShibeFace DAO).
+* Buy with SHIB & 40% of your purchase price is burned
 
 ### Operation: Bootstrap
 
