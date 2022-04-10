@@ -19,7 +19,7 @@ _<mark style="background-color:yellow;">**These NFT are a Master Key to this upc
 Since we know how much SHIB community loves burning, If you buy with SHIB, instead of ETH, then 40% of your purchase price will be burned.
 
 {% hint style="info" %}
-We shifted most of our "influencer budget" towards providing real utility for our holders.&#x20;
+We shifted most of our "influencer budget" towards providing utility for our holders.&#x20;
 {% endhint %}
 
 ### Operation: Bootstrap
@@ -30,7 +30,7 @@ The purpose to this initial Ethereum launch is jump-start our community. We have
 
 ### **Details TBD**
 
-**The SHIB burn is our main utility planned for the Bootstrap** sale. If our sale completes and much less than half is paid with SHIB then we can use some of the funds that would have been burnt for community development, instead.
+**The SHIB burn is our main utility planned for the Bootstrap** sale. If our sale completes and much less than half is paid with SHIB then we can use some of the funds that would have been burnt for community development.
 
 The bootstrap phase is mostly to get our operation up and running and to prepare us for our "[Official Launch](official-solana-or-matic.md)" (a month or so after ETH sale) where utility will take center stage.&#x20;
 
@@ -50,9 +50,9 @@ _**Join us**_ for the ETH launch and become part of our inner circle for NFT Dro
 
 ### Key Takeaways: ETH Genesis
 
-* Team building&#x20;
-* Community development
-* Buy with shib 40% burned
-* Incorporate Shib and Doge Payments
-* Eligible holders win "Companion" NFT on future cross-chain mints
-* Fill out road-map based on user-feedback
+* Team building.
+* Community development.
+* Buy with shib 40% burned.
+* Incorporate Shib and Doge Payments.
+* Eligible holders gifted "Companion" NFT in future cross-chain collections until ShibeFaceDAO.
+* Develop roadmap based on user-feedback.

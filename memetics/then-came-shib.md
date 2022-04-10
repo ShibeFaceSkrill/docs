@@ -6,7 +6,7 @@ coverY: 0
 
 # 💰 Then came SHIB
 
-Ethereum and its virtual machine have become the most potent meme in tech. It's no surprise that Ethereum would spawn its own infectious Shiba Inu coin.
+Ethereum and its virtual machine have become the most potent meme in tech. It's no surprise that Ethereum would spawn its own infectious [Shiba Inu coin](https://shibatoken.com).
 
 Shib is Ethereum's answer to Dogecoin. Same meme-worthy dog, but programmable with smart-contracts! Originally Shib was branded as "the dogecoin killer", a joke on the many tokens that branded themselves as Ethereum killers.
 
@@ -18,8 +18,8 @@ Shib is only growing stronger during the recent consolidation, and we can say co
 
 ![SHIB Meme Master](<../.gitbook/assets/image (6) (1) (1).png>)
 
-The [**v2 Woofpaper**](https://github.com/shytoshikusama/woofwoofpaper/raw/main/SHIBA\_INU\_WOOF\_WOOF.pdf) **** no longer contains any reference to 'killing' dogecoin, but the diehards want nothing to do with DOGE, and there is definitely a sense of rivalry.&#x20;
+The [v2 Woofpaper](https://github.com/shytoshikusama/woofwoofpaper/raw/main/SHIBA\_INU\_WOOF\_WOOF.pdf) **** no longer contains any reference to 'killing' dogecoin, but the diehards want nothing to do with DOGE, and there is definitely a sense of rivalry.&#x20;
 
-Today, the Shiba Inu token's narrative is driven around its spirited community, massive token burns, accumulation by ETH whales, and an ecosystem of utility being created around the tokens SHIB, LEASH and BONE.
+Today, the Shiba Inu token's narrative is driven around its spirited community, massive token burns, accumulation by ETH whales, and an ecosystem of utility being created around the tokens [SHIB](https://www.coingecko.com/en/coins/shiba-inu), [LEASH](https://www.coingecko.com/en/coins/doge-killer), [BONE](https://www.coingecko.com/en/coins/bone-shibaswap), and the [Shiboshi](https://shiboshis.shibaswap.com/#/) NFT.
 
 ![source](<../.gitbook/assets/image (11).png>)
