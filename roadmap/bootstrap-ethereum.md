@@ -27,9 +27,9 @@ The purpose to this initial Ethereum launch is jump-start our community. We have
 
 The bootstrap phase is mostly to get our operation up and running and to prepare us for our "[Official Launch](official-solana-or-matic.md)" (a month or so after ETH sale) where utility will take center stage.&#x20;
 
-We have ideas and moxy enough to get through the next year, but are also eager to discover what ideas you might have.
+We have ideas and moxy enough to get through the next year, and are also eager to discover what ideas you might have.
 
-We want to build something that will last, there is something the community can really  share in opportunities of Web3.
+We want to build something that will last, something that supports the community in sharing in opportunities of Web3.
 
 **We hope to onboard many shibes to this NFT ecosystem and bankless future!**
 
@@ -39,7 +39,7 @@ We want to build something that will last, there is something the community can 
 
 ![On our road-trip to the GitBook factory.](<../.gitbook/assets/image (12).png>)
 
-_**Join us**_ for the ETH launch and become part of our inner circle for NFT Drops leading to the opening of our cross-chain rewards-hub in 2023.
+_****_[_**Join us**_](https://discord.gg/G2gsYkg6VS) for the ETH launch and become part of our inner circle for NFT Drops leading to the opening of our cross-chain rewards-hub in 2023.
 
 ### Key Takeaways: ETH Genesis
 

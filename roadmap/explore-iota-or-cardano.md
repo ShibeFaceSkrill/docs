@@ -12,16 +12,17 @@ We will have a strong sense which direction the project will pursue in the immed
 
 While we look forward to your contributions, we'll leave nothing to chance. [The team](../info/team.md), here, already have a few ideas that would make for an epic launch.
 
-One idea includes NFT death match, another involves a team-building scavenger hunt.&#x20;
+The core thought behind this collection would be to introduce some financially oriented games.  One idea includes NFT death match, another involves a team-building scavenger hunt.&#x20;
 
-Don't want to spoil the mechanics behind those, but either path would be excellent, and that's just our initial brainstorming.
+Don't want to spoil the mechanics behind those, but either path would be excellent.
 
-#### 3333 NFT
+#### 3333 NFT. Utility: TBD.&#x20;
 
-* Financial Utility: TBD.&#x20;
-  * NFT death match?
-  * Team building scavenger hunt?
+* NFT death match?
+* Team building scavenger hunt?
 * Holder from this sale to receive a companion token on the following launch.
 * Each NFT mints $sfSKRILL tokens to HOLDers.
+
+_Come share your thoughts on our_ discord chat server: [https://discord.gg/G2gsYkg6VS](https://discord.gg/G2gsYkg6VS)
 
 #### _Cover image background by_ [_Geralt_](https://pixabay.com/users/geralt-9301/)__

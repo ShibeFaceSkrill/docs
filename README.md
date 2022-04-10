@@ -128,4 +128,4 @@ W_e need a name for the new replicator, a noun that conveys the idea of a unit o
 [faq.md](info/faq.md)
 {% endcontent-ref %}
 
-####
+#### _Cover image background by_ [_Geralt_](https://pixabay.com/users/geralt-9301/)__
