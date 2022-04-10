@@ -68,7 +68,7 @@ To me, design is a way of crafting new worlds where everyone gets to be who they
 
 ### More Information
 
-[ShibeFace](https://github.com/ShibeFaceSkrill/ShibeFaceSkrill): **** _Image by_ [_kazzzsat_](https://pixabay.com/users/kazzzsat-7677733/)__
+[FACED](https://github.com/ShibeFaceSkrill/ShibeFaceSkrill): **** _Image by_ [_kazzzsat_](https://pixabay.com/users/kazzzsat-7677733/)__
 
 [0xJPEG](https://twitter.com/0x\_JPEGs): _Image by_ [_Silvia Mores_](https://www.silviamores.com)__
 
