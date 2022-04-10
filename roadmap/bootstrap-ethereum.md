@@ -27,15 +27,15 @@ The purpose to this initial Ethereum launch is jump-start our community. We have
 
 The bootstrap phase is mostly to get our operation up and running and to prepare us for our "[Official Launch](official-solana-or-matic.md)" (a month or so after ETH sale) where utility will take center stage.&#x20;
 
-We have ideas and moxy enough to get through the next year.&#x20;
+We have ideas and moxy enough to get through the next year, but are also eager to discover what ideas you might have.
 
-We want to build something that will last, so the community can share in opportunities of Web3.
+We want to build something that will last, there is something the community can really  share in opportunities of Web3.
 
-**We hope to onboard many shibes to this NFT ecosystem and the greater crypto culture!**
+**We hope to onboard many shibes to this NFT ecosystem and bankless future!**
 
-We will grow together and, as a community, define the future of ShibeFace DAO.
+**We can grow together and, as a community, define the future of ShibeFace DAO.**
 
-### **Climb aboard!**
+### **Hop In!**
 
 ![On our road-trip to the GitBook factory.](<../.gitbook/assets/image (12).png>)
 

@@ -16,10 +16,12 @@ One idea includes NFT death match, another involves a team-building scavenger hu
 
 Don't want to spoil the mechanics behind those, but either path would be excellent, and that's just our initial brainstorming.
 
-#### 3333 NFT : April
+#### 3333 NFT
 
 * Financial Utility: TBD.&#x20;
-  * NFT death match
-  * Team building scavenger hunt
+  * NFT death match?
+  * Team building scavenger hunt?
 * Holder from this sale to receive a companion token on the following launch.
-* Each NFT mints SKRILL tokens to HOLDers.
+* Each NFT mints $sfSKRILL tokens to HOLDers.
+
+#### _Cover image background by_ [_Geralt_](https://pixabay.com/users/geralt-9301/)__
