@@ -6,21 +6,21 @@ description: A likely pack of shibes! 🐾 That's right! ✅ We've got the stuff
 
 ### Back Story &#x20;
 
-ShibeFace and 0xJPEG met during the great DeFi awakening of 2021. We had great fun (and pain) learning the wonders of this brand new multi-chain ecosystem growing rapidly all around.
+Faced and 0xJPEG met during the great DeFi awakening of 2021. We had great fun (and pain) learning the wonders of this brand new multi-chain ecosystem growing rapidly all around us.
 
-When I (ShibeFace) conceived of creating an NFT collection, I didn't tell _anyone_ what I was working on, but knew I had to bring 0xJPEG along for the ride.
+When I (Faced) conceived of creating an NFT collection, I didn't tell _anyone_ what I was working on, but knew I had to bring 0xJPEG along for the ride.
 
 While we believe in the future DOGE and SHIB, both, _my heart_ is with the Dogecoin community, while 0xJPEG is more closely aligned with the Shib Army.
 
-### ShibeFace - Founder and Bootstrap Technician
+### FACED - Founder and Bootstrap Technician
 
-![I like running fast in the snow!](../.gitbook/assets/shiba-inu-3087207\_1280.jpg)
+![I like running circles in the snow!](../.gitbook/assets/shiba-inu-3087207\_1280.jpg)
 
-BBS-era cyberpunk that found crypto in 2016, and got caught in the mania of 2017.  Since then, I've learned everything I could about bitcoin and and cryptocurrency.
+Found Bitcoin in 2016, and got caught in the mania of 2017. I've since learned everything I could about Bitcoin and cryptocurrency. &#x20;
 
-Since then, I picked up some web-dev skills, and eventually hopped onto the DeFi bandwagon 2021. Later, I had the opportunity to help launch (and sell out) a 10k PFP NFT, and realized I had most of the skills necessary to launch my own.&#x20;
+Then I picked up some web-dev skills, and eventually hopped onto the DeFi bandwagon 2021. Later, I had the opportunity to help launch (and sell out) a 10k PFP NFT.&#x20;
 
-I've had other opportunities, but think NFT drops could use a creative touch, and am happy to throw my hat into the ring. I love the opportunity in permissionless innovation, Ethereum and beyond!
+It was a ton of fun and am happy for the chance to test my own ideas in the market. I love the challenges and opportunity found in permissionless innovation, Ethereum and beyond!
 
 I've personally obsessed over every detail in creating artificial Shibes and launching these NFT, including:
 
