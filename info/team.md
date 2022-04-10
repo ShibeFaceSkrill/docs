@@ -16,11 +16,11 @@ We believe in the future of both $DOGE and $SHIB, But you may notice that FACED 
 
 ![I like running circles in the snow!](../.gitbook/assets/shiba-inu-3087207\_1280.jpg)
 
-Found Bitcoin in 2016, and got caught in the mania of 2017. I've since learned everything I could about Bitcoin and cryptocurrency. &#x20;
+Found Bitcoin in 2016, and got caught in the mania of 2017. I've since learned everything I could about Bitcoin and cryptocurrency. Then I picked up some web-dev skills, and eventually hopped onto the DeFi bandwagon 2021.&#x20;
 
-Then I picked up some web-dev skills, and eventually hopped onto the DeFi bandwagon 2021. Later, I had the opportunity to help launch (and sell out) a 10k PFP NFT.&#x20;
+Later, I had the opportunity to help launch a 10k PFP NFT collection from the ground up with a great team.&#x20;
 
-It was a ton of fun and am happy for the chance to test my own ideas in the market. I love the challenges and opportunity found in permissionless innovation, Ethereum and beyond!
+It was a ton of fun and am excited for the chance to test my own ideas in the market. I love the challenges and opportunity found in permissionless innovation, Ethereum and beyond!
 
 I've personally obsessed over every detail in creating artificial Shibes and launching these NFT, including:
 
