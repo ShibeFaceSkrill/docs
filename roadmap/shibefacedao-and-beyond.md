@@ -6,9 +6,9 @@ coverY: 0
 
 # 🤠 ShibeFaceDAO & Beyond!
 
-By the time we've released our first 3 collections, we hope to be seriously working towards ShibeFaceDAO.
+By this point in the journey, we hope to be seriously working towards ShibeFaceDAO.
 
-The idea being that, in the beginning, the core team make most decisions and have most responsibilities, while giving the community room to guide the flow, gradually distributing responsibilities from its centralized inception, across a series of NFT Drops. &#x20;
+The idea being that, in the beginning, the core team make most decisions and have most responsibilities, while giving the community room to guide its flow. Across a series of NFT Drops, gradually distribute responsibilities of operations from its centralized inception. &#x20;
 
 There are a few other chains we'd like to launch NFT on before creating a cross-chain community accelerator. That could include a total of 4-6 NFT collections before going full-DAO.
 
@@ -24,8 +24,7 @@ Have we seen enough 10k PFP collections that try to strap utility on as an after
 
 ### Moving Forward
 
-* Create a public\open-source dataset of Shiba Inu faces, so anyone can train neural networks to create a multitude of artificial images based upon them.
-* Create a DeFi NFT launch-strategy playbook.&#x20;
+* Make a public\open-source dataset of Shiba Inu faces, so anyone can train neural networks & create a multitude of artificial images based upon them.
 * Support community members to participate more fully in the early days of NFT.&#x20;
 * Groom enthusiastic participants into community managers, web 3 techs, meme-masters, NFT designers, and other roles crucial to next gen NFT collections.
 * Launch ShibeFaceDao whose purpose is:
