@@ -6,11 +6,11 @@ description: A likely pack of shibes! 🐾 That's right! ✅ We've got the stuff
 
 ### Back Story &#x20;
 
-Faced and 0xJPEG met during the great DeFi awakening of 2021. We had great fun (and pain) learning the wonders of this brand new multi-chain ecosystem growing rapidly all around us.
+FACED and 0xJPEG met during the great DeFi awakening of 2021. We had great fun (and pain) learning the wonders of this brand new multi-chain ecosystem growing rapidly all around us.
 
-When I (Faced) conceived of creating an NFT collection, I didn't tell _anyone_ what I was working on, but knew I had to bring 0xJPEG along for the ride.
+When I (FACED) conceived of creating an NFT collection, I didn't tell _anyone_ else what I was working on, but knew I had to bring 0xJPEG along for the ride.
 
-While we believe in the future DOGE and SHIB, both, _my heart_ is with the Dogecoin community, while 0xJPEG is more closely aligned with the Shib Army.
+We believe in the future of both $DOGE and $SHIB, But you may notice that FACED is more connected with the Dogecoin community, and 0xJPEG is more aligned with $SHIB.
 
 ### FACED - Founder and Bootstrap Technician
 
