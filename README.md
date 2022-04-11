@@ -104,7 +104,7 @@ W_e need a name for the new replicator, a noun that conveys the idea of a unit o
 [then-came-shib.md](memetics/then-came-shib.md)
 {% endcontent-ref %}
 
-#### So many puppies&#x20;
+#### Too many puppies&#x20;
 
 {% content-ref url="memetics/and-then-and-then-and-then.md" %}
 [and-then-and-then-and-then.md](memetics/and-then-and-then-and-then.md)
