@@ -40,7 +40,7 @@ _In theory_, influencers are needed to gain visibility, and attract necessary at
 
 _In practice_, NFT influencers are rarely friends to the community or a project's success.
 
-> _**Our focus is on dank memes and community, NOT HYPE.**_**  -ShibeFace**
+> _**We're focused on dank memes and our community, NOT HYPE.**_**  -ShibeFace**
 
 We've structured this series of launches to prioritize organic growth, so that the holders of each collection have something to look forward and build towards.&#x20;
 
