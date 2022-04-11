@@ -6,9 +6,9 @@ coverY: 0
 
 # 😎 Official: Solana|Matic
 
-* Begin work on public data-set of shiba inu faces.
+* Begin work on public data-set of Shiba Inu faces.
 * Eligible purchases from this sale gifted a companion NFT from the next NFT collection.
-* Each NFT mints $sfSKRILL tokens to HOLDers.
+* Each NFT mints $SKRILL tokens to HOLDers.
 * Help choose which chain and utilities to feature, next.&#x20;
 * Prototype community DAO decision making practices.&#x20;
 

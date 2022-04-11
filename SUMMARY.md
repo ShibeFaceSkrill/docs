@@ -4,7 +4,7 @@
 
 ## ShibeFace Roadmap <a href="#roadmap" id="roadmap"></a>
 
-* [🥰 Bootstrap: Ethereum](roadmap/bootstrap-ethereum.md)
+* [🥰 Genesis: Ethereum](roadmap/genesis-ethereum.md)
 * [😎 Official: Solana|Matic](roadmap/official-solana-or-matic.md)
 * [🤓 Explore: Iota|Cardano](roadmap/explore-iota-or-cardano.md)
 * [🤠 ShibeFaceDAO & Beyond!](roadmap/shibefacedao-and-beyond.md)

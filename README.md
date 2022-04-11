@@ -55,15 +55,15 @@ To the extent that we are successful, our shibes can grow into that success alon
 ### Roadmap: Jump right in
 
 {% hint style="info" %}
-[**ShibeFace Genesis Drop Coming Soon to Ethereum**](roadmap/bootstrap-ethereum.md)**.**&#x20;
+[**ShibeFace Genesis Drop Coming Soon to Ethereum**](roadmap/genesis-ethereum.md)**.**&#x20;
 {% endhint %}
 
 We have many of our own plans and creative ideas for Shibe Faced NFT, but we're also looking forward to your input! All roadmap items subject to the influence of our growing community.
 
 #### _**Help Decide**_ on which chains to launch next and which utilities to prioritize.&#x20;
 
-{% content-ref url="roadmap/bootstrap-ethereum.md" %}
-[bootstrap-ethereum.md](roadmap/bootstrap-ethereum.md)
+{% content-ref url="roadmap/genesis-ethereum.md" %}
+[genesis-ethereum.md](roadmap/genesis-ethereum.md)
 {% endcontent-ref %}
 
 #### You like NFT that control smart-contract wallets and planning activities of our DAO?

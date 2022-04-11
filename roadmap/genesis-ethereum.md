@@ -4,10 +4,10 @@ cover: ../.gitbook/assets/ethfaceheader2 (1).png
 coverY: 0
 ---
 
-# 🥰 Bootstrap: Ethereum
+# 🥰 Genesis: Ethereum
 
 {% hint style="success" %}
-**The inaugural SFSkrill collection:** Beginning a multi-chain series of NFT collections, it only makes sense to anchor our journey to the Ethereum blockchain.
+**sfSkrill Genesis collection:** Beginning a multi-chain series of NFT collections, it only makes sense to anchor our journey to the Ethereum blockchain.
 {% endhint %}
 
 This limited release of 333 Shibe Faced NFT will launch our community and brand.
@@ -33,19 +33,19 @@ We want to build something that will last, something that supports the community
 
 **We hope to onboard many shibes to this NFT ecosystem and bankless future!**
 
-**We can grow together and, as a community, define the future of ShibeFace DAO.**
+**We can grow together and, as a community, define the future of ShibeFaceDao.**
 
 ### **Hop In!**
 
 ![On our road-trip to the GitBook factory.](<../.gitbook/assets/image (12).png>)
 
-_****_[_**Join us**_](https://discord.gg/G2gsYkg6VS) for the ETH launch and become part of our inner circle for NFT Drops leading to the opening of our cross-chain rewards-hub in 2023.
+_****_[_**Join us**_](https://discord.gg/G2gsYkg6VS) for our Genesis Bootstrap event on Ethereum and become part of our inner circle leading to the opening of our cross-chain rewards-hub in 2023.
 
 ### Key Takeaways: ETH Genesis
 
 * Team building.
 * Community development.
-* Buy with shib 40% burned.
-* Incorporate Shib and Doge Payments.
+* Buy with $SHIB 40% burned.
+* Incorporate $SHIB and $DOGE Payments.
 * Eligible holders gifted "Companion" NFT in future cross-chain collections until ShibeFaceDAO.
 * Develop roadmap based on user-feedback.
