@@ -32,3 +32,7 @@ Have we seen enough 10k PFP collections that try to strap utility on as an after
   * Continue launching collections under this brand.
   * Manage the treasury and all funds from future ShibeFace NFT sales.
   * Fund the continued operation of our cross-chain community accelerator.
+
+#### _Come share your thoughts on our_ discord chat server: [https://discord.gg/G2gsYkg6VS](https://discord.gg/G2gsYkg6VS)
+
+_\*Cover image background by_ [_Geralt_](https://pixabay.com/users/geralt-9301/)

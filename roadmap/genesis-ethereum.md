@@ -10,7 +10,7 @@ coverY: 0
 **sfSkrill Genesis collection:** Beginning a multi-chain series of NFT collections, it only makes sense to anchor our journey to the Ethereum blockchain.
 {% endhint %}
 
-This limited release of 333 Shibe Faced NFT will launch our community and brand.
+_**This limited release of 333 Shibe Faced NFT**_ will launch our community and brand.
 
 * Eligible holders gifted a corresponding NFT on successive launches (until ShibeFace DAO).
 * Buy with SHIB & 40% of your purchase price is burned
@@ -20,8 +20,6 @@ This limited release of 333 Shibe Faced NFT will launch our community and brand.
 The purpose to this initial Ethereum launch is jump-start our community. We have a big vision for the future, but we can't do it on our own. Lets start by proving ourselves on the small things, and take this journey one step at a time.
 
 ![dog boots](<../.gitbook/assets/image (4).png>)
-
-### **Details TBD**
 
 **The SHIB burn is our main utility planned for the Bootstrap** sale. If our sale completes and much less than half is paid with SHIB then we can use some of the funds that would have been burnt for community development.
 
@@ -41,7 +39,7 @@ We want to build something that will last, something that supports the community
 
 _****_[_**Join us**_](https://discord.gg/G2gsYkg6VS) for our Genesis Bootstrap event on Ethereum and become part of our inner circle leading to the opening of our cross-chain rewards-hub in 2023.
 
-### Key Takeaways: ETH Genesis
+### Key Takeaways
 
 * Team building.
 * Community development.
@@ -49,3 +47,7 @@ _****_[_**Join us**_](https://discord.gg/G2gsYkg6VS) for our Genesis Bootstrap e
 * Incorporate $SHIB and $DOGE Payments.
 * Eligible holders gifted "Companion" NFT in future cross-chain collections until ShibeFaceDAO.
 * Develop roadmap based on user-feedback.
+
+#### _Come share your thoughts on our_ discord chat server: [https://discord.gg/G2gsYkg6VS](https://discord.gg/G2gsYkg6VS)
+
+_\*Cover image background by_ [_Geralt_](https://pixabay.com/users/geralt-9301/)

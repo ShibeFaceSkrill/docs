@@ -16,13 +16,14 @@ The core thought behind this collection would be to introduce some financially o
 
 Don't want to spoil the mechanics behind those, but either path would be excellent.
 
-#### 3333 NFT. Utility: TBD.&#x20;
+### 3333 NFT on Cardano or IOTA
 
-* NFT death match?
-* Team building scavenger hunt?
+* Utility:&#x20;
+  * NFT death match?
+  * Team building scavenger hunt?
 * Holder from this sale to receive a companion token on the following launch.
-* Each NFT mints $sfSKRILL tokens to HOLDers.
+* Each NFT mints $SKRILL tokens to HOLDers.
 
-_Come share your thoughts on our_ discord chat server: [https://discord.gg/G2gsYkg6VS](https://discord.gg/G2gsYkg6VS)
+#### _Come share your thoughts on our_ discord chat server: [https://discord.gg/G2gsYkg6VS](https://discord.gg/G2gsYkg6VS)
 
-#### _Cover image background by_ [_Geralt_](https://pixabay.com/users/geralt-9301/)__
+_\*Cover image background by_ [_Geralt_](https://pixabay.com/users/geralt-9301/)__
