@@ -12,9 +12,9 @@ Not Your Granddad's NFT Collection&#x20;
 
 ### So Artefishul 👾 Much Shibe!
 
-ShibeFaceSkrill will involve a series of NFT drops on different blockchains, exploring financial use-cases, communities and tech-stacks.
+ShibeFaceSkrill is dropping a series of NFT collections on different blockchains, exploring financial use-cases, communities and tech-stacks.
 
-Our journey of exploration will culminate in the creation of ShibeFaceDao, a cross-chain DeFi hub, and gamified NFT ecosystem.
+Our journey will culminate in the creation of ShibeFaceDao, a cross-chain DeFi hub, and gamified NFT ecosystem.
 
 ![Shibe Bless](<.gitbook/assets/image (3).png>)
 
@@ -28,7 +28,6 @@ Each launch will feature a unique financial use-case.
 
 #### Besides everything? :joy:
 
-* We love memes with shibes.&#x20;
 * We like coins with realistic faces of our very favorite Shiba Inu.&#x20;
 * We love artists and memesters native to the Shiba_verse._
 * We make a creative approach to NFT launch design and utility.
@@ -84,11 +83,7 @@ We have many of our own plans and creative ideas for Shibe Faced NFT, but we're 
 [shibefacedao-and-beyond.md](roadmap/shibefacedao-and-beyond.md)
 {% endcontent-ref %}
 
-### How Memesis, Such Token
-
-{% hint style="info" %}
-W_e need a name for the new replicator, a noun that conveys the idea of a unit of cultural transmission, or a unit of imitation. ... I hope my classicist friends will forgive me if I abbreviate mimeme to meme._ [**Richard Dawkins "The Selfish Gene"**](https://en.wikipedia.org/wiki/The\_Selfish\_Gene)
-{% endhint %}
+### How Memetic, Such Token
 
 ![Such memetics](<.gitbook/assets/image (8).png>)
 
