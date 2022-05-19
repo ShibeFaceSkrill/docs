@@ -16,7 +16,7 @@ For that, we used some "style transfer" and a touch of hoodoo to plate the faces
 
 ![Gold Plated](<../.gitbook/assets/image_9.webp>)
 
-![Saucy](<../.gitbook/assets/image (14).png>)
+![Saucy](<../.gitbook/assets/image_14.webp>)
 
 &#x20;
 

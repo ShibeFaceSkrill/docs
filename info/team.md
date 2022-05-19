@@ -14,7 +14,7 @@ We believe in the future of both $DOGE and $SHIB, But you may notice that FACED 
 
 ### FACED - Founder and Bootstrap Technician
 
-![I like running circles in the snow!](../.gitbook/assets/shiba-inu-3087207\_1280.jpg)
+![I like running circles in the snow!](../.gitbook/assets/shiba-inu-3087207\_1280.webp)
 
 Found Bitcoin in 2016, and got caught in the mania of 2017. I've since learned everything I could about Bitcoin and cryptocurrency. Then I picked up some web-dev skills, and eventually hopped onto the DeFi bandwagon 2021.&#x20;
 
@@ -68,10 +68,10 @@ To me, design is a way of crafting new worlds where everyone gets to be who they
 
 ### More Information
 
-[FACED](https://github.com/ShibeFaceSkrill/ShibeFaceSkrill): **** _Image by_ [_kazzzsat_](https://pixabay.com/users/kazzzsat-7677733/)__
+[FACED](https://github.com/ShibeFaceSkrill/ShibeFaceSkrill): _Image by_ [_kazzzsat_](https://pixabay.com/users/kazzzsat-7677733/)
 
-[0xJPEG](https://twitter.com/0x\_JPEGs): _Image by_ [_Silvia Mores_](https://www.silviamores.com)__
+[0xJPEG](https://twitter.com/0x\_JPEGs): _Image by_ [_Silvia Mores_](https://www.silviamores.com)
 
-[Okura Tatsuhiro](https://github.com/TopTecShare/): _Image by_ [_Sean Stratton_](https://unsplash.com/@seanstratton)__
+[Okura Tatsuhiro](https://github.com/TopTecShare/): _Image by_ [_Sean Stratton_](https://unsplash.com/@seanstratton)
 
-[Adebimpe Omolaso](https://www.adebimpeomolaso.com)**:** _Image by_ [_Petr Magera_](https://unsplash.com/@mpetrucho)__
+[Adebimpe Omolaso](https://www.adebimpeomolaso.com): _Image by_ [_Petr Magera_](https://unsplash.com/@mpetrucho)
