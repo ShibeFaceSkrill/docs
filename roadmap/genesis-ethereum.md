@@ -35,9 +35,9 @@ We want to build something that will last, something that supports the community
 
 ### **Hop In!**
 
-![On our road-trip to the GitBook factory.](<../.gitbook/assets/image (12).png>)
+![On our road-trip to the GitBook factory.](<../.gitbook/assets/sfVan.webp>)
 
-_****_[_**Join us**_](https://discord.gg/G2gsYkg6VS) for our Genesis Bootstrap event on Ethereum and become part of our inner circle leading to the opening of our cross-chain rewards-hub in 2023.
+[_**Join us**_](https://discord.gg/56J85Kk32m) for our Genesis Bootstrap event on Ethereum and become part of our inner circle leading to the opening of our cross-chain rewards-hub in 2023.
 
 ### Key Takeaways
 
@@ -48,6 +48,6 @@ _****_[_**Join us**_](https://discord.gg/G2gsYkg6VS) for our Genesis Bootstrap e
 * Eligible holders gifted "Companion" NFT in future cross-chain collections until ShibeFaceDAO.
 * Develop roadmap based on user-feedback.
 
-#### _Come share your thoughts on our_ discord chat server: [https://discord.gg/G2gsYkg6VS](https://discord.gg/G2gsYkg6VS)
+#### _Come share your thoughts on our_ discord chat server: [https://discord.gg/56J85Kk32m](https://discord.gg/56J85Kk32m)
 
 _\*Cover image background by_ [_Geralt_](https://pixabay.com/users/geralt-9301/)

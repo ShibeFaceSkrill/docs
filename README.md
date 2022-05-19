@@ -121,4 +121,4 @@ We have many of our own plans and creative ideas for Shibe Faced NFT, but we're 
 [faq.md](info/faq.md)
 {% endcontent-ref %}
 
-#### _Cover image background by_ [_Geralt_](https://pixabay.com/users/geralt-9301/)\_\_
+#### _Cover image background by_ [_Geralt_](https://pixabay.com/users/geralt-9301/)

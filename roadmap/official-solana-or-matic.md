@@ -22,7 +22,7 @@ In general, I would prefer Solana to be next, since it seems to hold the most au
 
 Polygon, is more established, reliable, and certainly has both coins pegged and available for this use-case
 
-#### _Come share your thoughts on our_ discord chat server: [https://discord.gg/G2gsYkg6VS](https://discord.gg/G2gsYkg6VS)
+#### _Come share your thoughts on our_ discord chat server: [https://discord.gg/56J85Kk32m](https://discord.gg/56J85Kk32m)
 
 _\*Cover image background by_ [_Geralt_](https://pixabay.com/users/geralt-9301/)__
 
