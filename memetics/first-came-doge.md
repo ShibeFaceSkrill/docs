@@ -8,7 +8,7 @@ coverY: 0
 
 These iconic pictures were [originally published](https://kabosu112.exblog.jp/9944144/) on February 13th, 2010. It wouldn't take long before they became the face to a multitude of wholesome [memes](https://knowyourmeme.com/memes/doge) detailing the situations and many reasons why our favorite Shiba Inu is so excited.
 
-![Kabosu, a female Shiba Inu, adopted by kindergarden techer Atsuko Satō in 2008](<../.gitbook/assets/image (10) (1).png>)
+![Kabosu, a female Shiba Inu, adopted by kindergarden techer Atsuko Satō in 2008](<../.gitbook/assets/image_10_1.webp>)
 
 [Dogecoin](https://dogecoin.com), originally launched "as a joke," came as a lighthearted alternative to the all too serious Bitcoin culture.&#x20;
 

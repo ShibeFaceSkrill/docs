@@ -18,7 +18,7 @@ Shib is only growing stronger during the recent consolidation, and we can say co
 
 ![SHIB Meme Master](<../.gitbook/assets/image_6_1_1.webp>)
 
-The [v2 Woofpaper](https://github.com/shytoshikusama/woofwoofpaper/raw/main/SHIBA\_INU\_WOOF\_WOOF.pdf) **** no longer contains any reference to 'killing' dogecoin, but the diehards want nothing to do with DOGE, and there is definitely a sense of rivalry.&#x20;
+The [v2 Woofpaper](https://github.com/shytoshikusama/woofwoofpaper/raw/main/SHIBA\_INU\_WOOF\_WOOF.pdf) no longer contains any reference to 'killing' dogecoin, but the diehards want nothing to do with DOGE, and there is definitely a sense of rivalry.&#x20;
 
 Today, the Shiba Inu token's narrative is driven around its spirited community, massive token burns, accumulation by ETH whales, and an ecosystem of utility being created around the tokens [SHIB](https://www.coingecko.com/en/coins/shiba-inu), [LEASH](https://www.coingecko.com/en/coins/doge-killer), [BONE](https://www.coingecko.com/en/coins/bone-shibaswap), and the [Shiboshi](https://shiboshis.shibaswap.com/#/) NFT.
 
