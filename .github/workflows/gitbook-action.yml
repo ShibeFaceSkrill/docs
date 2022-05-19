@@ -13,7 +13,6 @@ jobs:
       MY_SECRET   : ${{ secrets.PERSONAL_TOKEN }}  
       USER_NAME   : ShibeFaceSkrill
       USER_EMAIL  : shibefaceskrill@gmail.com
-      BOOK_DIR    : /
 
     steps:
     - name: Checkout 🛎️
