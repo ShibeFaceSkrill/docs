@@ -18,7 +18,7 @@ Before reaching that point, we will have demonstrated a variety of DeFi use-case
 
 Have we seen enough 10k PFP collections that try to strap utility on as an after-thought?&#x20;
 
-![(source)](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image_13.webp>)
 
 #### Join us and help shape the future of NFT launches.
 
