@@ -16,7 +16,7 @@ Bitcoiners focus on the technical, economic, and _political_ imperatives driving
 
 Dogecoin offers the same technological features as bitcoin, but with a friendly community who sustain each-other thru the highs and the lows, rallying around memes with of the most iconic breed, [Shiba Inu](https://en.wikipedia.org/wiki/Shiba\_Inu).
 
-![In 2013 Doge was named meme of the year, around the same time that dogecoin was released.](<../.gitbook/assets/image (12) (1).png>)
+![In 2013 Doge was named meme of the year, around the same time that dogecoin was released.](<../.gitbook/assets/image_12_1.webp>)
 
 ### Dogecoin knows how to have FUN!
 

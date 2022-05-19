@@ -26,4 +26,4 @@ Don't want to spoil the mechanics behind those, but either path would be excelle
 
 #### _Come share your thoughts on our_ discord chat server: [https://discord.gg/56J85Kk32m](https://discord.gg/56J85Kk32m)
 
-_\*Cover image background by_ [_Geralt_](https://pixabay.com/users/geralt-9301/)__
+_\*Cover image background by_ [_Geralt_](https://pixabay.com/users/geralt-9301/)

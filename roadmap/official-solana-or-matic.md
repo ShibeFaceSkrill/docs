@@ -24,6 +24,4 @@ Polygon, is more established, reliable, and certainly has both coins pegged and 
 
 #### _Come share your thoughts on our_ discord chat server: [https://discord.gg/56J85Kk32m](https://discord.gg/56J85Kk32m)
 
-_\*Cover image background by_ [_Geralt_](https://pixabay.com/users/geralt-9301/)__
-
-__
+_\*Cover image background by_ [_Geralt_](https://pixabay.com/users/geralt-9301/)

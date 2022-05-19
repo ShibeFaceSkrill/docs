@@ -22,4 +22,4 @@ The [v2 Woofpaper](https://github.com/shytoshikusama/woofwoofpaper/raw/main/SHIB
 
 Today, the Shiba Inu token's narrative is driven around its spirited community, massive token burns, accumulation by ETH whales, and an ecosystem of utility being created around the tokens [SHIB](https://www.coingecko.com/en/coins/shiba-inu), [LEASH](https://www.coingecko.com/en/coins/doge-killer), [BONE](https://www.coingecko.com/en/coins/bone-shibaswap), and the [Shiboshi](https://shiboshis.shibaswap.com/#/) NFT.
 
-![source](<../.gitbook/assets/image (11).png>)
+![source](<../.gitbook/assets/image_11.webp>)
