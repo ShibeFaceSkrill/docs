@@ -8,13 +8,13 @@ coverY: 103.86996904024767
 
 We may never know exactly why, but this adorable face will forever be known as a symbol of good-fortune and prosperity.&#x20;
 
-![This face inspired the birth of a million shitcoins! ](<../.gitbook/assets/image (4) (1).png>)
+![This face inspired the birth of a million shitcoins! ](<../.gitbook/assets/image_4_1.webp>)
 
 Many other Shiba Inu related coins arise every day. Most of these immediately dump, but a few have sticking power.&#x20;
 
 **What's certain is that DOGE and SHIB are here to stay!**
 
-![Taste the rainbow!](../.gitbook/assets/221-2212352\_niandoge-nyan-cat-png-gif.gif)
+![Taste the rainbow!](../.gitbook/assets/221-2212352\_niandoge-nyan-cat-png-gif.webp)
 
 ### Fun, Utilities and GAINZ!
 

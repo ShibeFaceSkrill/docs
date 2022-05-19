@@ -1,6 +1,6 @@
 ---
 description: '333 NFT on the original smart contracts platform: Ethereum'
-cover: ../.gitbook/assets/ethfaceheader2 (1).png
+cover: ../.gitbook/assets/ethfaceheader2.webp
 coverY: 0
 ---
 
@@ -19,7 +19,7 @@ _**This limited release of 333 Shibe Faced NFT**_ will launch our community and 
 
 The purpose to this initial Ethereum launch is jump-start our community. We have a big vision for the future, but we can't do it on our own. Lets start by proving ourselves on the small things, and take this journey one step at a time.
 
-![dog boots](<../.gitbook/assets/image (4).png>)
+![dog boots](<../.gitbook/assets/image_4.webp>)
 
 **The SHIB burn is our main utility planned for the Bootstrap** sale. If our sale completes and much less than half is paid with SHIB then we can use some of the funds that would have been burnt for community development.
 

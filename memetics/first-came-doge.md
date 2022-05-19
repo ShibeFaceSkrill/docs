@@ -1,6 +1,6 @@
 ---
 description: The original memecoin.
-cover: ../.gitbook/assets/doge-pattern-27481-2880x1800.jpg
+cover: ../.gitbook/assets/doge-pattern-27481-2880x1800.webp
 coverY: 0
 ---
 
@@ -20,4 +20,4 @@ Dogecoin offers the same technological features as bitcoin, but with a friendly 
 
 ### Dogecoin knows how to have FUN!
 
-![Shibe is a good and wholesome doggo!](<../.gitbook/assets/image (3) (1).png>)
+![Shibe is a good and wholesome doggo!](<../.gitbook/assets/image_3_1.webp>)

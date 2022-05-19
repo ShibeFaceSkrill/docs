@@ -1,6 +1,6 @@
 ---
 description: '3333 NFT : the world is your oyster'
-cover: ../.gitbook/assets/cardano-iota (1).png
+cover: ../.gitbook/assets/cardano-iota.webp
 coverY: 0
 ---
 
