@@ -1,6 +1,6 @@
 ---
 description: A Shibe's Best Friend
-cover: .gitbook/assets/shibefaceheader (1).png
+cover: .gitbook/assets/shibefaceheader.webp
 coverY: 0
 ---
 
@@ -16,15 +16,15 @@ ShibeFaceSkrill is dropping a series of NFT collections on different blockchains
 
 Our journey will culminate in the creation of ShibeFaceDao, a cross-chain DeFi hub, and gamified NFT ecosystem.
 
-![Shibe Bless](<.gitbook/assets/image (3).png>)
+![Shibe Bless](<.gitbook/assets/image_3.webp>)
 
 {% hint style="success" %}
-Each launch will feature a unique financial use-case.
+Each launch will feature a unique financial use-case.s
 {% endhint %}
 
 ### What's different about ShibeFaceSkrill?
 
-#### ![](.gitbook/assets/wazatoz-doge.gif)
+#### ![](.gitbook/assets/wazatoz-doge.webp)
 
 #### Besides everything? :joy:
 
@@ -85,7 +85,7 @@ We have many of our own plans and creative ideas for Shibe Faced NFT, but we're 
 
 ### How Memetic, Such Token
 
-![Such memetics](<.gitbook/assets/image (8).png>)
+![Such memetics](<.gitbook/assets/image_8.webp>)
 
 #### The Original Shiba Inu Faced D • O • G • E&#x20;
 

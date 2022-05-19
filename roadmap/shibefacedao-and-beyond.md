@@ -1,6 +1,6 @@
 ---
 description: 9999 NFT..... but where tho?
-cover: ../.gitbook/assets/shibefaceheader2.png
+cover: ../.gitbook/assets/shibefaceheader2.webp
 coverY: 0
 ---
 

@@ -34,7 +34,7 @@ _**I love to learn and to share knowledge with people who will act on it.**_&#x2
 
 ### 0xJPEG - Market Research & JPEG Analyst
 
-![I sniffed something!](<../.gitbook/assets/image (1).png>)
+![I sniffed something!](<../.gitbook/assets/image_1.webp>)
 
 I started my crypto journey in 2020 by watching some of the worst shills on YouTube and eventually made my way into DeFi in early 2021.
 
@@ -48,7 +48,7 @@ _**I believe the launch-team and community who sticks together will outlast vapo
 
 ### Okura Tatsuhiro - Smart Contracts + Full-Stack Expert
 
-![Did someone mention a walk?](../.gitbook/assets/sean-stratton-IMr1gzYD8tE-unsplash.jpg)
+![Did someone mention a walk?](../.gitbook/assets/sean-stratton-IMr1gzYD8tE-unsplash.webp)
 
 Passionate full-stack developer with 9+ years of experience, leadership skills and unrivaled building skills. Skilled in JS Frameworks (React, Vue), Web Dev Stacks (MEAN, LAMP), Version Control (Git), Databases (Oracle, MySQL), CMS, Blockchain, Smart Contract, Cryptography.&#x20;
 
@@ -60,7 +60,7 @@ _**Main goal is to work with agile business owners and ambitious entrepreneurs w
 
 ### Adebimpe Omolaso **- User Experience and Design**
 
-![Is that a treat for me?](<../.gitbook/assets/image (6).png>)
+![Is that a treat for me?](<../.gitbook/assets/image_6.webp>)
 
 To me, design is a way of crafting new worlds where everyone gets to be who they really want to be deep within. I collaborate with teams or colleagues and users to design and develop products from ground up keeping in mind the final goal and strategy of the client's business. In my work, I do my best to meet my clients' expectations and deadlines while focusing on user-centric design philosophy.
 

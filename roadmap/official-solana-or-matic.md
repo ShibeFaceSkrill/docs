@@ -1,6 +1,6 @@
 ---
 description: 999 Shibes and a problem aint one!
-cover: ../.gitbook/assets/polygon-solana.png
+cover: ../.gitbook/assets/polygon-solana.webp
 coverY: 0
 ---
 
