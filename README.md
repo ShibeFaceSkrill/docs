@@ -47,7 +47,7 @@ Starting small and building up to bigger collections also allows the team to gai
 
 To the extent that we are successful, our shibes can grow into that success along with the team, taking ownership over the brand through participation in ShibeFaceDAO.
 
-![ShibeFaceSkrill](.gitbook/assets/464-GcLaurel\_coin.png)
+![ShibeFaceSkrill](.gitbook/assets/464-GcLaurel\_coin.webp)
 
 ### Roadmap: Jump right in
 
